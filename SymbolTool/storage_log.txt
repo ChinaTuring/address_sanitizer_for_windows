@@ -1,0 +1,3933 @@
+函数名: CDetourDis::s_fLimitReferencesToModule
+地址: 0x5B008 
+
+函数名: CDetourDis::s_pbModuleBeg
+地址: 0x5B000 
+
+函数名: ChoreEventGuid
+地址: 0x4E84C 
+
+函数名: __security_cookie_complement
+地址: 0x53060 
+
+函数名: ignore
+地址: 0x533B9 
+
+函数名: ignore
+地址: 0x533B4 
+
+函数名: ignore
+地址: 0x533B0 
+
+函数名: ignore
+地址: 0x5338D 
+
+函数名: SysMalloc
+地址: 0x533C4 
+
+函数名: __proc_attached
+地址: 0x53804 
+
+函数名: std::num_put<char,std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::id
+地址: 0x533A4 
+
+函数名: uninit_postmsg
+地址: 0x50DBC 
+
+函数名: _RTC_ErrorReportFunc
+地址: 0x5380C 
+
+函数名: s_rbDosCode
+地址: 0x53044 
+
+函数名: SysFree$initializer$
+地址: 0x4E178 
+
+函数名: _RTC_ErrorReportFuncW
+地址: 0x53810 
+
+函数名: s_pRegions
+地址: 0x533F4 
+
+函数名: __rtc_taa
+地址: 0x52058 
+
+函数名: s_pSystemRegionUpperBound
+地址: 0x5303C 
+
+函数名: ContextEventGuid
+地址: 0x4E838 
+
+函数名: ConcRTEventGuid
+地址: 0x4E7FC 
+
+函数名: __rtc_iaa
+地址: 0x51CFC 
+
+函数名: __xc_a
+地址: 0x4E000 
+
+函数名: __xc_a
+地址: 0x4E000 
+
+函数名: s_pRegion
+地址: 0x533F8 
+
+函数名: s_pPendingThreads
+地址: 0x533EC 
+
+函数名: mspdbName
+地址: 0x5152C 
+
+函数名: CDetourDisX86::s_pbModuleEnd
+地址: 0x5B024 
+
+函数名: _pDefaultRawDllMain
+地址: 0x50D14 
+
+函数名: std::num_put<wchar_t,std::back_insert_iterator<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > >::id
+地址: 0x533A8 
+
+函数名: SysRealloc
+地址: 0x533C0 
+
+函数名: CDetourDisARM::s_rceCopyTable
+地址: 0x57540 
+
+函数名: AgentEventGuid
+地址: 0x4E8D8 
+
+函数名: DETOUR_EXE_RESTORE_GUID
+地址: 0x50A18 
+
+函数名: _RTC_ErrorMessages
+地址: 0x50D4C 
+
+函数名: gwp_asan::GuardedPoolAllocator::ThreadLocals
+地址: 0x53390 
+
+函数名: allocator_arg$initializer$
+地址: 0x4E168 
+
+函数名: allocator_arg$initializer$
+地址: 0x4E154 
+
+函数名: allocator_arg$initializer$
+地址: 0x4E140 
+
+函数名: allocator_arg$initializer$
+地址: 0x4E134 
+
+函数名: allocator_arg$initializer$
+地址: 0x4E108 
+
+函数名: __dyn_tls_init_callback
+地址: 0x53840 
+
+函数名: __xi_z
+地址: 0x4E6A0 
+
+函数名: __xi_z
+地址: 0x4E6A0 
+
+函数名: SysDelete
+地址: 0x53030 
+
+函数名: msvcrdFilename
+地址: 0x51550 
+
+函数名: ConcRT_ProviderGuid
+地址: 0x4E7E8 
+
+函数名: _Tuple_alloc
+地址: 0x533B8 
+
+函数名: _Tuple_alloc
+地址: 0x533B3 
+
+函数名: _Tuple_alloc
+地址: 0x533AF 
+
+函数名: _Tuple_alloc
+地址: 0x5338C 
+
+函数名: std::_Error_objects<int>::_Generic_object$initializer$
+地址: 0x4E11C 
+
+函数名: s_ppPendingError
+地址: 0x533E8 
+
+函数名: _RTC_ErrorLevels
+地址: 0x53070 
+
+函数名: GS_ContextRecord
+地址: 0x53490 
+
+函数名: pcinit
+地址: 0x4E498 
+
+函数名: SysFree
+地址: 0x533C8 
+
+函数名: DebuggerWasPresent
+地址: 0x5375C 
+
+函数名: s_fIgnoreTooSmall
+地址: 0x533FC 
+
+函数名: std::num_put<char,std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::id$initializer$
+地址: 0x4E128 
+
+函数名: VirtualProcessorEventGuid
+地址: 0x4E860 
+
+函数名: std::_Error_objects<int>::_Iostream_object
+地址: 0x5339C 
+
+函数名: __native_startup_lock
+地址: 0x5382C 
+
+函数名: CDetourDisX64::s_rceCopyTable0F
+地址: 0x57FA8 
+
+函数名: s_nPendingThreadId
+地址: 0x533E0 
+
+函数名: _RTC_errlist
+地址: 0x51434 
+
+函数名: CDetourDisX64::s_rceCopyTable
+地址: 0x577A8 
+
+函数名: SchedulerEventGuid
+地址: 0x4E810 
+
+函数名: __native_dllmain_reason
+地址: 0x53088 
+
+函数名: allocator$initializer$
+地址: 0x4E180 
+
+函数名: std::num_put<wchar_t,std::back_insert_iterator<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > >::id$initializer$
+地址: 0x4E12C 
+
+函数名: PPLParallelForeachEventGuid
+地址: 0x4E8C4 
+
+函数名: gwp_asan::GuardedPoolAllocator::ThreadLocals$initializer$
+地址: 0x4E114 
+
+函数名: PPLParallelForEventGuid
+地址: 0x4E8B0 
+
+函数名: CDetourDisX86::s_fLimitReferencesToModule
+地址: 0x5B028 
+
+函数名: s_fSearchedForHelper
+地址: 0x533D0 
+
+函数名: CDetourDisX64::s_rbModRm
+地址: 0x587A8 
+
+函数名: _Tuple_alloc$initializer$
+地址: 0x4E170 
+
+函数名: _Tuple_alloc$initializer$
+地址: 0x4E15C 
+
+函数名: _Tuple_alloc$initializer$
+地址: 0x4E148 
+
+函数名: _Tuple_alloc$initializer$
+地址: 0x4E110 
+
+函数名: __onexitend
+地址: 0x5384C 
+
+函数名: CDetourDisX86::s_pbModuleBeg
+地址: 0x5B020 
+
+函数名: _RTC_NoFalsePositives
+地址: 0x50D64 
+
+函数名: _imp___onexit
+地址: 0x54258 
+
+函数名: std::_Error_objects<int>::_System_object
+地址: 0x533A0 
+
+函数名: dbghelp_initialized
+地址: 0x533AC 
+
+函数名: __xi_a
+地址: 0x4E394 
+
+函数名: __xi_a
+地址: 0x4E394 
+
+函数名: ResourceManagerEventGuid
+地址: 0x4E888 
+
+函数名: GS_ExceptionPointers
+地址: 0x50CFC 
+
+函数名: _pRawDllMain
+地址: 0x50D14 
+
+函数名: __rtc_izz
+地址: 0x51F54 
+
+函数名: __xc_z
+地址: 0x4E290 
+
+函数名: __xc_z
+地址: 0x4E290 
+
+函数名: mspdb
+地址: 0x53824 
+
+函数名: CDetourDisX64::s_fLimitReferencesToModule
+地址: 0x5B018 
+
+函数名: CDetourDisX86::s_rbModRm
+地址: 0x59CD0 
+
+函数名: CDetourDisX64::s_pbModuleBeg
+地址: 0x5B010 
+
+函数名: CDetourDis::s_rceCopyTable
+地址: 0x56090 
+
+函数名: s_pHelper
+地址: 0x533D4 
+
+函数名: allocator
+地址: 0x533BC 
+
+函数名: __rtc_tzz
+地址: 0x522B0 
+
+函数名: GS_ExceptionRecord
+地址: 0x53440 
+
+函数名: _load_config_used
+地址: 0x516C8 
+
+函数名: ScheduleGroupEventGuid
+地址: 0x4E824 
+
+函数名: DETOUR_EXE_HELPER_GUID
+地址: 0x506C4 
+
+函数名: std::_Error_objects<int>::_Iostream_object$initializer$
+地址: 0x4E120 
+
+函数名: piecewise_construct
+地址: 0x533BB 
+
+函数名: piecewise_construct
+地址: 0x533B6 
+
+函数名: piecewise_construct
+地址: 0x533B2 
+
+函数名: piecewise_construct
+地址: 0x533AE 
+
+函数名: piecewise_construct
+地址: 0x5338F 
+
+函数名: s_pPendingOperations
+地址: 0x533F0 
+
+函数名: CDetourDis::s_pbModuleEnd
+地址: 0x5B004 
+
+函数名: CDetourDisX86::s_rceCopyTable0F
+地址: 0x594D0 
+
+函数名: CDetourDisX86::s_rceCopyTable
+地址: 0x58CD0 
+
+函数名: piecewise_construct$initializer$
+地址: 0x4E164 
+
+函数名: piecewise_construct$initializer$
+地址: 0x4E150 
+
+函数名: piecewise_construct$initializer$
+地址: 0x4E13C 
+
+函数名: piecewise_construct$initializer$
+地址: 0x4E130 
+
+函数名: piecewise_construct$initializer$
+地址: 0x4E104 
+
+函数名: LockEventGuid
+地址: 0x4E874 
+
+函数名: std::_Error_objects<int>::_System_object$initializer$
+地址: 0x4E124 
+
+函数名: stack_premsg
+地址: 0x50D7C 
+
+函数名: CDetourDisX64::s_pbModuleEnd
+地址: 0x5B014 
+
+函数名: s_fRetainRegions
+地址: 0x533DC 
+
+函数名: DETOUR_IA64_BUNDLE::s_rceCopyTable
+地址: 0x57680 
+
+函数名: SysRealloc$initializer$
+地址: 0x4E17C 
+
+函数名: SysMalloc$initializer$
+地址: 0x4E174 
+
+函数名: __security_cookie
+地址: 0x5305C 
+
+函数名: uninit_premsg
+地址: 0x50DAC 
+
+函数名: __onexitbegin
+地址: 0x5385C 
+
+函数名: pinit
+地址: 0x4E59C 
+
+函数名: PPLParallelInvokeEventGuid
+地址: 0x4E89C 
+
+函数名: wsprintffp
+地址: 0x53808 
+
+函数名: SysNew
+地址: 0x5302C 
+
+函数名: CDetourDis::s_rceCopyTable0F
+地址: 0x56890 
+
+函数名: __type_info_root_node
+地址: 0x53818 
+
+函数名: ignore$initializer$
+地址: 0x4E16C 
+
+函数名: ignore$initializer$
+地址: 0x4E158 
+
+函数名: ignore$initializer$
+地址: 0x4E144 
+
+函数名: ignore$initializer$
+地址: 0x4E10C 
+
+函数名: __native_startup_state
+地址: 0x5383C 
+
+函数名: CDetourDis::s_rbModRm
+地址: 0x57090 
+
+函数名: allocator_arg
+地址: 0x533BA 
+
+函数名: allocator_arg
+地址: 0x533B5 
+
+函数名: allocator_arg
+地址: 0x533B1 
+
+函数名: allocator_arg
+地址: 0x533AD 
+
+函数名: allocator_arg
+地址: 0x5338E 
+
+函数名: std::_Error_objects<int>::_Generic_object
+地址: 0x53398 
+
+函数名: s_pSystemRegionLowerBound
+地址: 0x53038 
+
+函数名: stack_postmsg
+地址: 0x50D98 
+
+函数名: s_nPendingError
+地址: 0x533E4 
+
+函数名: gwp_asan::GuardedPoolAllocator::reportErrorInternal
+地址: 0x20FC0 
+
+函数名: std::error_code::category
+地址: 0x1EE50 
+
+函数名: detour_alloc_region_from_hi
+地址: 0x2C1C0 
+
+函数名: CDetourDisARM64::__autoclassinit2
+地址: 0x36E30 
+
+函数名: __raise_securityfailure
+地址: 0x46720 
+
+函数名: std::_Debug_pointer<tagMODULEENTRY32W>
+地址: 0x22B90 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Tidy
+地址: 0x1E360 
+
+函数名: std::_Iostream_error_category::_Iostream_error_category
+地址: 0x1CBF0 
+
+函数名: _FindPESection
+地址: 0x483F0 
+
+函数名: FreeExeHelper
+地址: 0x27620 
+
+函数名: StringCchCatA
+地址: 0x27D70 
+
+函数名: gwp_asan::GuardedPoolAllocator::diagnoseUnknownError
+地址: 0x1F4A0 
+
+函数名: std::_Iostream_error_category::message
+地址: 0x203B0 
+
+函数名: std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::operator!=
+地址: 0x245D0 
+
+函数名: std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::operator==
+地址: 0x24540 
+
+函数名: StringCchCatW
+地址: 0x27E60 
+
+函数名: DetourBinaryEnumeratePayloads
+地址: 0x43250 
+
+函数名: DetourFindFunction
+地址: 0x44CF0 
+
+函数名: _RTC_CheckEsp
+地址: 0x46D50 
+
+函数名: std::allocator_traits<std::allocator<tagMODULEENTRY32W> >::construct<tagMODULEENTRY32W,tagMODULEENTRY32W &>
+地址: 0x235C0 
+
+函数名: DETOUR_IA64_BUNDLE::GetUnit2
+地址: 0x37D40 
+
+函数名: DETOUR_IA64_BUNDLE::RelocateInstruction
+地址: 0x38260 
+
+函数名: CDetourDisX86::CopyF2
+地址: 0x3C260 
+
+函数名: CDetourDisX86::CopyF3
+地址: 0x3C2D0 
+
+函数名: CDetourDisX86::CopyF6
+地址: 0x3C340 
+
+函数名: CDetourDisX86::CopyF7
+地址: 0x3C3F0 
+
+函数名: std::_Wrap_alloc<std::allocator<std::_Container_proxy> >::allocate
+地址: 0x26100 
+
+函数名: CDetourDisX86::Copy66
+地址: 0x3C180 
+
+函数名: CDetourDisX86::Copy67
+地址: 0x3C1F0 
+
+函数名: CDetourDisARM64::CDetourDisARM64
+地址: 0x34700 
+
+函数名: std::error_condition::value
+地址: 0x21650 
+
+函数名: Detour::CImageThunks::Allocate
+地址: 0x3E050 
+
+函数名: std::allocator_traits<std::allocator<tagMODULEENTRY32W> >::construct<tagMODULEENTRY32W,tagMODULEENTRY32W const &>
+地址: 0x23690 
+
+函数名: std::addressof<char>
+地址: 0x1C1F0 
+
+函数名: operator new
+地址: 0x1D050 
+
+函数名: DetourBinaryEditImports
+地址: 0x431C0 
+
+函数名: gwp_asan::getRandomUnsigned32
+地址: 0x22370 
+
+函数名: DetourGetContainingModule
+地址: 0x45450 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_Iostream_object''
+地址: 0x1B7F0 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_Iostream_object''
+地址: 0x1B430 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_Iostream_object''
+地址: 0x1B140 
+
+函数名: Detour::CImage::DataPurge
+地址: 0x3E8B0 
+
+函数名: CDetourDisARM::CopyLoadAndStoreMultipleAndSRS
+地址: 0x32680 
+
+函数名: CDetourDisARM64::Mov16::AssembleMovn64
+地址: 0x35470 
+
+函数名: _CRT_INIT
+地址: 0x47330 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_Generic_object''
+地址: 0x4C0C0 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_Generic_object''
+地址: 0x4BFD0 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_Generic_object''
+地址: 0x4BEE0 
+
+函数名: CDetourDisX64::CopyXop
+地址: 0x3AD40 
+
+函数名: CDetourDisX86::CopyFF
+地址: 0x3C4A0 
+
+函数名: failwithmessage
+地址: 0x47F30 
+
+函数名: CDetourDis::SanityCheckSystem
+地址: 0x30F00 
+
+函数名: gwp_asan::GuardedPoolAllocator::dealwithException
+地址: 0x1F250 
+
+函数名: DetourCopyInstructionARM
+地址: 0x345F0 
+
+函数名: std::_Iterator_base12::_Iterator_base12
+地址: 0x24210 
+
+函数名: DetourCreateProcessWithDllExW
+地址: 0x29F70 
+
+函数名: StringLengthWorkerW
+地址: 0x28490 
+
+函数名: std::_Iterator012<std::random_access_iterator_tag,tagMODULEENTRY32W,int,tagMODULEENTRY32W const *,tagMODULEENTRY32W const &,std::_Iterator_base12>::_Iterator012<std::random_access_iterator_tag,tagMODULEENTRY32W,int,tagMODULEENTRY32W const *,tagMODULEENTRY32W const &,std::_Iterator_base12>
+地址: 0x23B70 
+
+函数名: DetourProcessViaHelperDllsA
+地址: 0x2ACC0 
+
+函数名: Detour::CImageImportFile::`scalar deleting destructor'
+地址: 0x3DC50 
+
+函数名: Detour::CImage::DataEnum
+地址: 0x3E7C0 
+
+函数名: StringLengthWorkerA
+地址: 0x43EF0 
+
+函数名: StringLengthWorkerA
+地址: 0x41390 
+
+函数名: StringLengthWorkerA
+地址: 0x2BE20 
+
+函数名: StringLengthWorkerA
+地址: 0x283E0 
+
+函数名: DetourProcessViaHelperDllsW
+地址: 0x2B050 
+
+函数名: std::forward<tagMODULEENTRY32W &>
+地址: 0x23A70 
+
+函数名: DetourCreateProcessWithDllExA
+地址: 0x29D80 
+
+函数名: CDetourDisARM::EmitLogicalShiftLeft32
+地址: 0x33B60 
+
+函数名: std::char_traits<char>::length
+地址: 0x200A0 
+
+函数名: DETOUR_IA64_BUNDLE::SetMovlGp
+地址: 0x39600 
+
+函数名: CDetourDisARM64::CopyAdr
+地址: 0x35530 
+
+函数名: Detour::CImage::CopyFileData
+地址: 0x3E610 
+
+函数名: DetourVirtualProtectSameExecuteEx
+地址: 0x2F5F0 
+
+函数名: CDetourDis::CopyBytesPrefix
+地址: 0x2F970 
+
+函数名: DETOUR_IA64_BUNDLE::GetMovlGp
+地址: 0x37990 
+
+函数名: _RTC_StackFailure
+地址: 0x47D40 
+
+函数名: CDetourDis::Invalid
+地址: 0x2FC50 
+
+函数名: StringCchCatNA
+地址: 0x2BC20 
+
+函数名: std::_Wrap_alloc<std::allocator<char> >::deallocate
+地址: 0x1F130 
+
+函数名: CDetourDisARM64::PureCopy32
+地址: 0x36DE0 
+
+函数名: std::_Allocate<std::_Container_proxy>
+地址: 0x1C0E0 
+
+函数名: _RTC_Initialize
+地址: 0x487A0 
+
+函数名: DetourUpdateProcessWithDll
+地址: 0x2B4C0 
+
+函数名: InstallSanitizer
+地址: 0x26960 
+
+函数名: std::_Iterator_base12::_Orphan_me
+地址: 0x25950 
+
+函数名: _strlen_priv
+地址: 0x47F10 
+
+函数名: gwp_asan::GuardedPoolAllocator::GuardedPoolAllocator
+地址: 0x24080 
+
+函数名: CDetourDisARM64::Br::AssembleBr
+地址: 0x35360 
+
+函数名: _RTC_GetErrorFunc
+地址: 0x482D0 
+
+函数名: DetourUpdateProcessWithDllEx
+地址: 0x2B680 
+
+函数名: std::error_category::~error_category
+地址: 0x1D010 
+
+函数名: std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >::deallocate
+地址: 0x263F0 
+
+函数名: DetourCopyInstructionIA64
+地址: 0x39B60 
+
+函数名: CDetourDisARM::CDetourDisARM
+地址: 0x31CE0 
+
+函数名: std::_Generic_error_category::`scalar deleting destructor'
+地址: 0x1D1E0 
+
+函数名: `dynamic initializer for 'SysFree''
+地址: 0x1B970 
+
+函数名: CDetourDis::AdjustTarget
+地址: 0x309B0 
+
+函数名: DetourGetEntryPoint
+地址: 0x45760 
+
+函数名: DetourUpdateThread
+地址: 0x2F420 
+
+函数名: time
+地址: 0x22400 
+
+函数名: StringCchPrintfA
+地址: 0x280A0 
+
+函数名: DETOUR_IA64_BUNDLE::SetImm13c
+地址: 0x38ED0 
+
+函数名: CDetourDisX86::Copy0F78
+地址: 0x3C020 
+
+函数名: CDetourDisX86::Invalid
+地址: 0x3BE60 
+
+函数名: FindDetourSectionInRemoteModule
+地址: 0x27300 
+
+函数名: DETOUR_IA64_BUNDLE::GetImm13c
+地址: 0x37460 
+
+函数名: std::_Generic_error_category::message
+地址: 0x202F0 
+
+函数名: std::allocator_traits<std::allocator<tagMODULEENTRY32W> >::max_size
+地址: 0x265C0 
+
+函数名: DetourBinarySetPayload
+地址: 0x43590 
+
+函数名: CDetourDisX64::CopyBytesPrefix
+地址: 0x3A050 
+
+函数名: std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >::construct<tagMODULEENTRY32W,tagMODULEENTRY32W>
+地址: 0x236F0 
+
+函数名: DetourCreateProcessWithDllW
+地址: 0x2A160 
+
+函数名: std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >::construct<tagMODULEENTRY32W,tagMODULEENTRY32W &>
+地址: 0x23440 
+
+函数名: IsWow64ProcessHelper
+地址: 0x276A0 
+
+函数名: DetourCreateProcessWithDllA
+地址: 0x29BD0 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Reallocate
+地址: 0x25BB0 
+
+函数名: CDetourDisARM::CopyLoadAndStoreSingle
+地址: 0x326E0 
+
+函数名: Detour::CImage::~CImage
+地址: 0x3D740 
+
+函数名: Detour::CImageData::__autoclassinit2
+地址: 0x42EB0 
+
+函数名: detour_find_jmp_bounds
+地址: 0x2CB60 
+
+函数名: std::_Wrap_alloc<std::allocator<std::_Container_proxy> >::destroy<std::_Container_proxy>
+地址: 0x238D0 
+
+函数名: Detour::CImageData::~CImageData
+地址: 0x3D7A0 
+
+函数名: CDetourDisARM::EmitLongBranch
+地址: 0x33C90 
+
+函数名: _RTC_NumErrors
+地址: 0x48310 
+
+函数名: CDetourDis::SetCodeModule
+地址: 0x30F40 
+
+函数名: gwp_asan::windbg::SymbolInfoRetriever::GetLoadedModules
+地址: 0x24B40 
+
+函数名: gwp_asan::`anonymous namespace'::printAllocDeallocTraces
+地址: 0x20700 
+
+函数名: PadToDwordPtr
+地址: 0x27950 
+
+函数名: std::_Container_proxy::_Container_proxy
+地址: 0x1CB00 
+
+函数名: std::allocator<tagMODULEENTRY32W>::allocator<tagMODULEENTRY32W>
+地址: 0x23EF0 
+
+函数名: std::forward<std::_Container_proxy>
+地址: 0x1C680 
+
+函数名: DetourRestoreAfterWith
+地址: 0x45EE0 
+
+函数名: DetourFinishHelperProcess
+地址: 0x2A860 
+
+函数名: gwp_asan::GuardedPoolAllocator::getPlatformPageSize
+地址: 0x21EE0 
+
+函数名: std::char_traits<char>::move
+地址: 0x20530 
+
+函数名: std::forward<tagMODULEENTRY32W const &>
+地址: 0x23AB0 
+
+函数名: std::allocator_traits<std::allocator<char> >::destroy<char *>
+地址: 0x1C5B0 
+
+函数名: DETOUR_IA64_BUNDLE::IsBrl
+地址: 0x37F90 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::erase
+地址: 0x1F750 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::erase
+地址: 0x1F6D0 
+
+函数名: DETOUR_IA64_BUNDLE::GetUnit0
+地址: 0x37C80 
+
+函数名: ULongAdd
+地址: 0x28950 
+
+函数名: std::`dynamic initializer for 'ignore''
+地址: 0x1BBB0 
+
+函数名: std::`dynamic initializer for 'ignore''
+地址: 0x1B700 
+
+函数名: std::`dynamic initializer for 'ignore''
+地址: 0x1B5F0 
+
+函数名: std::`dynamic initializer for 'ignore''
+地址: 0x1B340 
+
+函数名: _RTC_SetErrorFuncW
+地址: 0x48350 
+
+函数名: std::_Iterator_base12::_Clrcont
+地址: 0x253F0 
+
+函数名: Detour::CImageChars::Allocate
+地址: 0x3DF30 
+
+函数名: Detour::CImageChars::Allocate
+地址: 0x3DE00 
+
+函数名: `anonymous namespace'::Backtrace
+地址: 0x21710 
+
+函数名: DETOUR_IA64_BUNDLE::SetImm20a
+地址: 0x38F50 
+
+函数名: DETOUR_IA64_BUNDLE::SetImm20b
+地址: 0x38FD0 
+
+函数名: DetourRestoreAfterWithEx
+地址: 0x45FB0 
+
+函数名: Detour::CImageData::SizeTo
+地址: 0x41170 
+
+函数名: std::allocator<tagMODULEENTRY32W>::deallocate
+地址: 0x26450 
+
+函数名: DETOUR_IA64_BUNDLE::GetImm20a
+地址: 0x374D0 
+
+函数名: DETOUR_IA64_BUNDLE::GetImm20b
+地址: 0x37540 
+
+函数名: CDetourDis::CopyF3
+地址: 0x300C0 
+
+函数名: std::_Rechecked<tagMODULEENTRY32W *,tagMODULEENTRY32W *>
+地址: 0x22F10 
+
+函数名: Detour::CImageData::Purge
+地址: 0x3F9D0 
+
+函数名: DetourIsHelperProcess
+地址: 0x2AB30 
+
+函数名: CDetourDisARM64::LdrFpNeonImm9::Assemble
+地址: 0x34C60 
+
+函数名: DETOUR_IA64_BUNDLE::SetBits
+地址: 0x38860 
+
+函数名: std::allocator_traits<std::allocator<std::_Container_proxy> >::construct<std::_Container_proxy,std::_Container_proxy>
+地址: 0x233E0 
+
+函数名: GetPayloadSectionFromModule
+地址: 0x43A80 
+
+函数名: _RTC_Failure
+地址: 0x47CD0 
+
+函数名: DETOUR_IA64_BUNDLE::GetBits
+地址: 0x370B0 
+
+函数名: std::allocator<char>::construct<char *,char * &>
+地址: 0x1C2A0 
+
+函数名: gwp_asan::GuardedPoolAllocator::freeSlot
+地址: 0x1F830 
+
+函数名: gwp_asan::ThreadLocalPointer<gwp_asan::ThreadLocalPackedVariables>::Set
+地址: 0x1DA00 
+
+函数名: CDetourDis::CopyBytesSegment
+地址: 0x2FA30 
+
+函数名: gwp_asan::ThreadLocalPointer<gwp_asan::ThreadLocalPackedVariables>::Get
+地址: 0x1D3A0 
+
+函数名: gwp_asan::compression::unpack
+地址: 0x22540 
+
+函数名: ResetFileCallback
+地址: 0x40B90 
+
+函数名: StringValidateDestAndLengthA
+地址: 0x44000 
+
+函数名: StringValidateDestAndLengthA
+地址: 0x2BF30 
+
+函数名: StringValidateDestAndLengthA
+地址: 0x287D0 
+
+函数名: CDetourDisARM64::Br::Assemble
+地址: 0x34990 
+
+函数名: DetourBinaryClose
+地址: 0x43080 
+
+函数名: DetourBinaryOpen
+地址: 0x43350 
+
+函数名: gwp_asan::ThreadLocalPackedVariables::ThreadLocalPackedVariables
+地址: 0x1CAB0 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::capacity
+地址: 0x26290 
+
+函数名: Detour::CImageImportName::`vector deleting destructor'
+地址: 0x3DAB0 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Copy
+地址: 0x1DC00 
+
+函数名: CDetourDisARM::CalculateTarget
+地址: 0x31E50 
+
+函数名: gwp_asan::`anonymous namespace'::ScopedEndOfReportDecorator::~ScopedEndOfReportDecorator
+地址: 0x1CEB0 
+
+函数名: DETOUR_IA64_BUNDLE::SetImm7a
+地址: 0x39050 
+
+函数名: std::_Wrap_alloc<std::allocator<char> >::max_size
+地址: 0x20120 
+
+函数名: DETOUR_IA64_BUNDLE::GetImm7a
+地址: 0x375B0 
+
+函数名: gwp_asan::GuardedPoolAllocator::realloc
+地址: 0x20CC0 
+
+函数名: Detour::CImage::SectionAlign
+地址: 0x40DF0 
+
+函数名: gwp_asan::ThreadLocalPointer<gwp_asan::ThreadLocalPackedVariables>::ThreadLocalPointer<gwp_asan::ThreadLocalPackedVariables>
+地址: 0x1C6C0 
+
+函数名: DETOUR_IA64_BUNDLE::GetUnit1
+地址: 0x37CE0 
+
+函数名: CDetourDisARM64::EmitInstruction
+地址: 0x36670 
+
+函数名: gwp_asan::GuardedPoolAllocator::dealloc
+地址: 0x1EF50 
+
+函数名: std::_Iostream_error_category::name
+地址: 0x20600 
+
+函数名: StringValidateDestW
+地址: 0x288F0 
+
+函数名: StringValidateDestA
+地址: 0x43FA0 
+
+函数名: StringValidateDestA
+地址: 0x41440 
+
+函数名: StringValidateDestA
+地址: 0x2BED0 
+
+函数名: StringValidateDestA
+地址: 0x28770 
+
+函数名: DetourAttachEx
+地址: 0x2E010 
+
+函数名: detour_does_code_end_function
+地址: 0x2C910 
+
+函数名: std::allocator<std::_Container_proxy>::allocator<std::_Container_proxy>
+地址: 0x1C900 
+
+函数名: CDetourDisARM::CopyInstruction
+地址: 0x32400 
+
+函数名: std::allocator<char>::allocate
+地址: 0x1E9A0 
+
+函数名: CDetourDisARM64::Cbz19::Assemble
+地址: 0x34B50 
+
+函数名: CDetourDis::CopyF2
+地址: 0x30050 
+
+函数名: CDetourDisX86::CopyVexEvexCommon
+地址: 0x3CF60 
+
+函数名: std::error_category::error_category
+地址: 0x1CCB0 
+
+函数名: std::_System_error_category::_System_error_category
+地址: 0x1CC50 
+
+函数名: CDetourDisARM64::EmitMovImmediate
+地址: 0x366D0 
+
+函数名: CDetourDisARM64::CopyBcc
+地址: 0x359F0 
+
+函数名: Detour::CImageData::`scalar deleting destructor'
+地址: 0x3DBE0 
+
+函数名: CDetourDisARM::CopyLiteralLoad32
+地址: 0x32540 
+
+函数名: CDetourDisX86::CDetourDisX86
+地址: 0x3CAA0 
+
+函数名: std::_Unchecked<tagMODULEENTRY32W *>
+地址: 0x23020 
+
+函数名: std::_Vector_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::__autoclassinit2
+地址: 0x25FE0 
+
+函数名: Detour::CImage::IsValid
+地址: 0x3F630 
+
+函数名: CDetourDisARM64::Branch26::Assemble
+地址: 0x34A70 
+
+函数名: std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >::destroy<tagMODULEENTRY32W>
+地址: 0x23980 
+
+函数名: _RTC_CheckStackVars2
+地址: 0x46BD0 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Orphan_range
+地址: 0x25A20 
+
+函数名: CDetourDisARM::CopyConditionalBranchOrOther16
+地址: 0x31460 
+
+函数名: detour_alloc_region_from_lo
+地址: 0x2C360 
+
+函数名: ULongMult
+地址: 0x28A30 
+
+函数名: detour_free_trampoline
+地址: 0x2CC50 
+
+函数名: std::forward<char * &>
+地址: 0x1C640 
+
+函数名: detour_is_code_filler
+地址: 0x2CE60 
+
+函数名: CDetourDisX64::CopyBytesRax
+地址: 0x3A190 
+
+函数名: detour_runnable_trampoline_regions
+地址: 0x2D8E0 
+
+函数名: DebuggerRuntime
+地址: 0x47A10 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::__autoclassinit2
+地址: 0x26040 
+
+函数名: CDetourDisARM::PureCopy16
+地址: 0x31180 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Unused_capacity
+地址: 0x25F30 
+
+函数名: DETOUR_IA64_BUNDLE::SetInst0
+地址: 0x390D0 
+
+函数名: gwp_asan::compression::`anonymous namespace'::zigzagDecode
+地址: 0x22810 
+
+函数名: gwp_asan::GuardedPoolAllocator::getThreadID
+地址: 0x21FA0 
+
+函数名: CDetourDisARM::EmitAdd32
+地址: 0x33400 
+
+函数名: Detour::CImage::DataDelete
+地址: 0x3E750 
+
+函数名: std::_Iterator_base12::_Adopt
+地址: 0x25080 
+
+函数名: CDetourDisARM64::Bcc19::Imm
+地址: 0x36C50 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Destroy
+地址: 0x25550 
+
+函数名: DETOUR_IA64_BUNDLE::GetInst0
+地址: 0x37620 
+
+函数名: CDetourDisARM::CopyBranch24
+地址: 0x31EA0 
+
+函数名: std::error_category::operator==
+地址: 0x1D0C0 
+
+函数名: StartHook
+地址: 0x24FA0 
+
+函数名: Detour::CImage::Close
+地址: 0x3E430 
+
+函数名: Detour::CImageImportFile::CImageImportFile
+地址: 0x3D570 
+
+函数名: std::_System_error_category::default_error_condition
+地址: 0x1F390 
+
+函数名: StringCchCopyA
+地址: 0x27F60 
+
+函数名: std::allocator<tagMODULEENTRY32W>::destroy<tagMODULEENTRY32W>
+地址: 0x239E0 
+
+函数名: std::allocator<std::_Container_proxy>::destroy<std::_Container_proxy>
+地址: 0x1C600 
+
+函数名: std::addressof<tagMODULEENTRY32W const >
+地址: 0x23330 
+
+函数名: std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >::construct<tagMODULEENTRY32W,tagMODULEENTRY32W const &>
+地址: 0x23620 
+
+函数名: gwp_asan::GuardedPoolAllocator::getNearestSlot
+地址: 0x1F920 
+
+函数名: `dynamic initializer for 'std::num_put<char,std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::id''
+地址: 0x1B8B0 
+
+函数名: `dynamic initializer for 'std::num_put<char,std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::id''
+地址: 0x1B200 
+
+函数名: Detour::QuadAlign
+地址: 0x3FA40 
+
+函数名: type_info::operator=
+地址: 0x46E20 
+
+函数名: CDetourDisARM64::Mov16::AssembleMovz64
+地址: 0x354D0 
+
+函数名: CDetourDisX86::Copy0FB8
+地址: 0x3C0D0 
+
+函数名: std::_Vector_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::operator++
+地址: 0x24920 
+
+函数名: CDetourDisX64::CopyInstruction
+地址: 0x3B370 
+
+函数名: DetourBinaryResetImports
+地址: 0x43500 
+
+函数名: CDetourDisX86::SetCodeModule
+地址: 0x3D150 
+
+函数名: std::error_code::value
+地址: 0x21610 
+
+函数名: gwp_asan::options::Options::setDefaults
+地址: 0x26810 
+
+函数名: atexit
+地址: 0x466E0 
+
+函数名: DetourSetSystemRegionLowerBound
+地址: 0x2EAE0 
+
+函数名: type_info::`vector deleting destructor'
+地址: 0x46E40 
+
+函数名: DETOUR_IA64_BUNDLE::SetData
+地址: 0x38E10 
+
+函数名: DetourCopyInstructionARM64
+地址: 0x36E90 
+
+函数名: CDetourDisARM::EmitShortInstruction
+地址: 0x33E80 
+
+函数名: CDetourDisX86::CopyVexCommon
+地址: 0x3CEC0 
+
+函数名: StringValidateDestAndLengthW
+地址: 0x28860 
+
+函数名: gwp_asan::ThreadLocalWindowsPlatform::AllocateSlot
+地址: 0x228B0 
+
+函数名: std::allocator<char>::max_size
+地址: 0x20180 
+
+函数名: CDetourDisX64::CopyBytes
+地址: 0x39D50 
+
+函数名: CDetourDis::__autoclassinit2
+地址: 0x30FB0 
+
+函数名: CDetourDis::CopyBytesRax
+地址: 0x30B60 
+
+函数名: DETOUR_IA64_BUNDLE::GetOpcode
+地址: 0x37B50 
+
+函数名: CustomDelete
+地址: 0x24980 
+
+函数名: DETOUR_IA64_BUNDLE::SetInst1
+地址: 0x39140 
+
+函数名: detour_writable_trampoline_regions
+地址: 0x2DBB0 
+
+函数名: std::error_condition::operator==
+地址: 0x1D130 
+
+函数名: DETOUR_IA64_BUNDLE::GetInst1
+地址: 0x37670 
+
+函数名: _RTC_SetErrorFunc
+地址: 0x48320 
+
+函数名: gwp_asan::`anonymous namespace'::ScopedEndOfReportDecorator::ScopedEndOfReportDecorator
+地址: 0x1CA60 
+
+函数名: EndHook
+地址: 0x24A60 
+
+函数名: std::_Uninit_move<tagMODULEENTRY32W *,tagMODULEENTRY32W *,std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> > >
+地址: 0x23060 
+
+函数名: DllMain
+地址: 0x268F0 
+
+函数名: gwp_asan::GuardedPoolAllocator::reserveSlot
+地址: 0x212D0 
+
+函数名: operator delete
+地址: 0x1D090 
+
+函数名: _RTC_Terminate
+地址: 0x487D0 
+
+函数名: Detour::CImageImportName::CImageImportName
+地址: 0x3D620 
+
+函数名: CDetourDisX86::CopyBytesSegment
+地址: 0x3BC40 
+
+函数名: Detour::CImage::FileAlign
+地址: 0x3F450 
+
+函数名: `dynamic initializer for 'SysRealloc''
+地址: 0x1B9F0 
+
+函数名: ArrayUnwindFilter
+地址: 0x47190 
+
+函数名: std::_System_error_category::`scalar deleting destructor'
+地址: 0x1D2C0 
+
+函数名: CDetourDisARM64::Mov16::AssembleMovk64
+地址: 0x353B0 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Umove<tagMODULEENTRY32W *>
+地址: 0x22F50 
+
+函数名: std::_Vector_alloc<0,std::_Vec_base_types<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> > >::~_Vector_alloc<0,std::_Vec_base_types<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> > >
+地址: 0x242B0 
+
+函数名: __DllMainCRTStartup
+地址: 0x476F0 
+
+函数名: CDetourDisX86::__autoclassinit2
+地址: 0x3D1C0 
+
+函数名: std::_Vector_alloc<0,std::_Vec_base_types<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> > >::_Getal
+地址: 0x25710 
+
+函数名: std::_Wrap_alloc<std::allocator<char> >::allocate
+地址: 0x1E940 
+
+函数名: std::_Allocate<tagMODULEENTRY32W>
+地址: 0x22AF0 
+
+函数名: Detour::CImageThunks::CImageThunks
+地址: 0x3D6A0 
+
+函数名: gwp_asan::GuardedPoolAllocator::__autoclassinit2
+地址: 0x260A0 
+
+函数名: CDetourDis::Copy0F00
+地址: 0x2FD50 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::size
+地址: 0x268A0 
+
+函数名: std::forward<std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> > >
+地址: 0x23B30 
+
+函数名: CDetourDisARM::CopyMiscellaneous16
+地址: 0x311D0 
+
+函数名: std::allocator<std::_Container_proxy>::deallocate
+地址: 0x1F1F0 
+
+函数名: DetourGetModuleSize
+地址: 0x45B00 
+
+函数名: Detour::DuplicateString
+地址: 0x3EB10 
+
+函数名: DetourEnumerateImportsThunk
+地址: 0x43680 
+
+函数名: std::_Vector_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >
+地址: 0x23D40 
+
+函数名: std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::operator++
+地址: 0x247F0 
+
+函数名: CDetourDisARM::PureCopy32
+地址: 0x34540 
+
+函数名: CDetourDisARM64::Tbz14::Imm
+地址: 0x36D90 
+
+函数名: CDetourDisX64::SanityCheckSystem
+地址: 0x3B680 
+
+函数名: detour_2gb_below
+地址: 0x2C030 
+
+函数名: DETOUR_IA64_BUNDLE::SetInst2
+地址: 0x391B0 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Eos
+地址: 0x1DED0 
+
+函数名: Detour::CImageData::Delete
+地址: 0x3E9A0 
+
+函数名: std::allocator_traits<std::allocator<tagMODULEENTRY32W> >::construct<tagMODULEENTRY32W,tagMODULEENTRY32W>
+地址: 0x23870 
+
+函数名: DETOUR_IA64_BUNDLE::GetInst2
+地址: 0x376C0 
+
+函数名: DetourBinaryFindPayload
+地址: 0x432D0 
+
+函数名: CDetourDisARM::DecodeBranch8
+地址: 0x33140 
+
+函数名: _RTC_GetErrorFuncW
+地址: 0x482E0 
+
+函数名: DetourProcessViaHelperA
+地址: 0x2AC60 
+
+函数名: CDetourDisARM64::Adr19::Imm
+地址: 0x36BE0 
+
+函数名: CDetourDisX86::CopyEvex
+地址: 0x3C850 
+
+函数名: DetourProcessViaHelperW
+地址: 0x2B460 
+
+函数名: DetourEnumerateExports
+地址: 0x44090 
+
+函数名: _ValidateImageBase
+地址: 0x48600 
+
+函数名: gwp_asan::`anonymous namespace'::ScopedBoolean::ScopedBoolean
+地址: 0x1CA10 
+
+函数名: DetourBinaryDeletePayload
+地址: 0x43150 
+
+函数名: detour_alloc_round_up_to_region
+地址: 0x2C540 
+
+函数名: CDetourDis::CopyF7
+地址: 0x301E0 
+
+函数名: CDetourDisARM64::LdrLit19::Assemble
+地址: 0x34DA0 
+
+函数名: `dynamic initializer for 'SysMalloc''
+地址: 0x1B9B0 
+
+函数名: CDetourDisX64::CopyVex3
+地址: 0x3AAB0 
+
+函数名: CDetourDisARM64::Mov16::AssembleMovn32
+地址: 0x35410 
+
+函数名: CDetourDisX64::CopyVex2
+地址: 0x3AA00 
+
+函数名: Detour::CImage::CImage
+地址: 0x3D390 
+
+函数名: CDetourDisX86::Copy0F00
+地址: 0x3BF60 
+
+函数名: Detour::CImageData::CImageData
+地址: 0x3D510 
+
+函数名: detour_gen_brk
+地址: 0x2CD90 
+
+函数名: CDetourDisX86::Copy0F
+地址: 0x3BEA0 
+
+函数名: _RTC_AllocaFailure
+地址: 0x47AF0 
+
+函数名: DetourFreePayload
+地址: 0x45350 
+
+函数名: CDetourDis::Copy67
+地址: 0x2FFE0 
+
+函数名: DetourCopyInstruction
+地址: 0x31010 
+
+函数名: CDetourDisARM::CopyUnConditionalBranch16
+地址: 0x316A0 
+
+函数名: std::_Iostream_error_category::`scalar deleting destructor'
+地址: 0x1D250 
+
+函数名: DetourGetSizeOfPayloads
+地址: 0x45D30 
+
+函数名: std::_Wrap_alloc<std::allocator<std::_Container_proxy> >::_Wrap_alloc<std::allocator<std::_Container_proxy> >
+地址: 0x23E30 
+
+函数名: CDetourDisARM64::CopyB_or_Bl
+地址: 0x35880 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_System_object''
+地址: 0x1B850 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_System_object''
+地址: 0x1B490 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_System_object''
+地址: 0x1B1A0 
+
+函数名: gwp_asan::compression::`anonymous namespace'::varIntEncode
+地址: 0x22770 
+
+函数名: CDetourDis::CopyVexCommon
+地址: 0x30CB0 
+
+函数名: Detour::CImage::EditImports
+地址: 0x3ECA0 
+
+函数名: std::forward<tagMODULEENTRY32W>
+地址: 0x23AF0 
+
+函数名: CDetourDisARM64::AddImm12::AssembleAdd32
+地址: 0x35110 
+
+函数名: std::_Wrap_alloc<std::allocator<char> >::destroy<char *>
+地址: 0x1C510 
+
+函数名: std::_System_error_category::~_System_error_category
+地址: 0x1CFC0 
+
+函数名: CDetourDis::CopyBytes
+地址: 0x2F6F0 
+
+函数名: CDetourDisX86::AdjustTarget
+地址: 0x3CBC0 
+
+函数名: _DllMainCRTStartup
+地址: 0x476C0 
+
+函数名: CDetourDisARM64::Adr19::AssembleAdrp
+地址: 0x351D0 
+
+函数名: std::allocator<tagMODULEENTRY32W>::construct
+地址: 0x262E0 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Inside
+地址: 0x1E1C0 
+
+函数名: gwp_asan::GuardedPoolAllocator::maximumAllocationSize
+地址: 0x202B0 
+
+函数名: CDetourDis::CopyEvex
+地址: 0x30640 
+
+函数名: Detour::CImage::CheckImportsNeeded
+地址: 0x3E210 
+
+函数名: DETOUR_IA64_BUNDLE::SignExtend
+地址: 0x39AA0 
+
+函数名: detour_2gb_above
+地址: 0x2BFC0 
+
+函数名: CDetourDisARM::CalculateNewDelta
+地址: 0x31E00 
+
+函数名: Printf
+地址: 0x219F0 
+
+函数名: DETOUR_IA64_BUNDLE::Copy
+地址: 0x36FB0 
+
+函数名: NtCurrentTeb
+地址: 0x47320 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_System_object''
+地址: 0x4C160 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_System_object''
+地址: 0x4C070 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_System_object''
+地址: 0x4BF80 
+
+函数名: std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> >::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> >
+地址: 0x23DA0 
+
+函数名: CDetourDisARM::EncodeBranch8
+地址: 0x34430 
+
+函数名: CDetourDisX86::CopyBytesJump
+地址: 0x3BCC0 
+
+函数名: gwp_asan::GuardedPoolAllocator::alloc
+地址: 0x1E660 
+
+函数名: `dynamic initializer for 'std::num_put<wchar_t,std::back_insert_iterator<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > >::id''
+地址: 0x1B910 
+
+函数名: `dynamic initializer for 'std::num_put<wchar_t,std::back_insert_iterator<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > >::id''
+地址: 0x1B260 
+
+函数名: __report_securityfailureEx
+地址: 0x469F0 
+
+函数名: CDetourDisARM::CopyLiteralLoad16
+地址: 0x31860 
+
+函数名: CDetourDis::CopyF6
+地址: 0x30130 
+
+函数名: type_info::type_info
+地址: 0x46E00 
+
+函数名: DetourTransactionCommit
+地址: 0x2EE70 
+
+函数名: StringCchPrintfW
+地址: 0x28150 
+
+函数名: CDetourDis::CopyFF
+地址: 0x30290 
+
+函数名: DetourLoadImageHlp
+地址: 0x43720 
+
+函数名: DetourEnumerateModules
+地址: 0x44AA0 
+
+函数名: CDetourDisARM::EmitStoreImmediate12
+地址: 0x33EE0 
+
+函数名: FindPayloadInRemoteDetourSection
+地址: 0x27470 
+
+函数名: CDetourDisARM::EmitLongLiteralLoad
+地址: 0x33D80 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Assign_rv
+地址: 0x25330 
+
+函数名: DetourSetRetainRegions
+地址: 0x2EA90 
+
+函数名: CDetourDisARM::EmitLongInstruction
+地址: 0x33D00 
+
+函数名: _getMemBlockDataString
+地址: 0x47E80 
+
+函数名: CDetourDis::Copy66
+地址: 0x2FF70 
+
+函数名: CDetourDis::Copy0F
+地址: 0x2FC90 
+
+函数名: CDetourDis::Copy0FB8
+地址: 0x2FEC0 
+
+函数名: DetourCodeFromPointer
+地址: 0x2E680 
+
+函数名: CDetourDis::CopyInstruction
+地址: 0x30BF0 
+
+函数名: _RTC_SetErrorType
+地址: 0x48380 
+
+函数名: Detour::CImageData::IsEmpty
+地址: 0x3F5C0 
+
+函数名: CDetourDisARM::EmitImmediateRegisterLoad16
+地址: 0x33630 
+
+函数名: std::error_category::`scalar deleting destructor'
+地址: 0x1D330 
+
+函数名: std::allocator<std::_Container_proxy>::construct<std::_Container_proxy,std::_Container_proxy>
+地址: 0x1C400 
+
+函数名: DetourCopyInstructionX64
+地址: 0x3B790 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_Generic_object''
+地址: 0x1B790 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_Generic_object''
+地址: 0x1B3D0 
+
+函数名: `dynamic initializer for 'std::_Error_objects<int>::_Generic_object''
+地址: 0x1B0E0 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Grow
+地址: 0x1E0A0 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Inside
+地址: 0x258D0 
+
+函数名: detour_gen_jmp_immediate
+地址: 0x2CDF0 
+
+函数名: hypot
+地址: 0x21690 
+
+函数名: CDetourDisX86::SanityCheckSystem
+地址: 0x3D110 
+
+函数名: DebuggerProbe
+地址: 0x47950 
+
+函数名: DetourTransactionCommitEx
+地址: 0x2EEC0 
+
+函数名: Detour::CImageImportName::~CImageImportName
+地址: 0x3D9F0 
+
+函数名: gwp_asan::WinUnhandledExceptionFilter
+地址: 0x1DA60 
+
+函数名: std::_String_alloc<0,std::_String_base_types<char,std::allocator<char> > >::_Alloc_proxy
+地址: 0x1DB10 
+
+函数名: gwp_asan::GuardedPoolAllocator::getPageAddr
+地址: 0x1FA20 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::push_back
+地址: 0x26670 
+
+函数名: CDetourDisARM64::Bcc19::AssembleBcc
+地址: 0x35280 
+
+函数名: _allshl
+地址: 0x46FA0 
+
+函数名: std::_Vector_alloc<0,std::_Vec_base_types<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> > >::_Free_proxy
+地址: 0x25620 
+
+函数名: std::system_category
+地址: 0x215D0 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Tidy
+地址: 0x25E40 
+
+函数名: CDetourDisX64::CopyEvex
+地址: 0x3ABE0 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::basic_string<char,std::char_traits<char>,std::allocator<char> >
+地址: 0x1C940 
+
+函数名: CDetourDisARM64::CopyBl
+地址: 0x35C20 
+
+函数名: DETOUR_IA64_BUNDLE::GetInstruction1
+地址: 0x377A0 
+
+函数名: DETOUR_IA64_BUNDLE::GetInstruction0
+地址: 0x37720 
+
+函数名: DETOUR_IA64_BUNDLE::GetInstruction2
+地址: 0x37870 
+
+函数名: DETOUR_IA64_BUNDLE::SetInstruction
+地址: 0x39540 
+
+函数名: DETOUR_IA64_BUNDLE::GetInstruction
+地址: 0x378E0 
+
+函数名: DETOUR_IA64_BUNDLE::SetInstruction1
+地址: 0x39380 
+
+函数名: DETOUR_IA64_BUNDLE::SetInstruction0
+地址: 0x392E0 
+
+函数名: DETOUR_IA64_BUNDLE::SetInstruction2
+地址: 0x394A0 
+
+函数名: std::generic_category
+地址: 0x1F8E0 
+
+函数名: std::_Vector_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::~_Vector_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >
+地址: 0x24360 
+
+函数名: CDetourDisX64::Copy0F00
+地址: 0x3B200 
+
+函数名: CDetourDisX86::CopyVex2
+地址: 0x3C600 
+
+函数名: CDetourDisX86::CopyVex3
+地址: 0x3C710 
+
+函数名: RvaAdjust
+地址: 0x43DB0 
+
+函数名: std::_Vector_alloc<0,std::_Vec_base_types<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> > >::_Vector_alloc<0,std::_Vec_base_types<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> > >
+地址: 0x23BD0 
+
+函数名: CDetourDisX64::Copy0F
+地址: 0x3A400 
+
+函数名: detour_free_unused_trampoline_regions
+地址: 0x2CCD0 
+
+函数名: std::_Generic_error_category::~_Generic_error_category
+地址: 0x1CF20 
+
+函数名: NewFree
+地址: 0x24D10 
+
+函数名: CDetourDisARM64::CopyB
+地址: 0x35810 
+
+函数名: __report_rangecheckfailure
+地址: 0x468D0 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Grow_to
+地址: 0x25820 
+
+函数名: DETOUR_IA64_BUNDLE::GetUnit
+地址: 0x37DA0 
+
+函数名: StringVPrintfWorkerA
+地址: 0x28540 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::max_size
+地址: 0x26610 
+
+函数名: DETOUR_IA64_BUNDLE::SetStop
+地址: 0x39A40 
+
+函数名: DetourSetSystemRegionUpperBound
+地址: 0x2EB30 
+
+函数名: CDetourDisARM::DecodeLiteralLoad8
+地址: 0x33310 
+
+函数名: CDetourDisARM::CopyTableBranch
+地址: 0x32840 
+
+函数名: CDetourDisARM::Align4
+地址: 0x31D40 
+
+函数名: gwp_asan::`anonymous namespace'::printErrorType
+地址: 0x208D0 
+
+函数名: Detour::CImageChars::__autoclassinit2
+地址: 0x42E50 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Xran
+地址: 0x1E4D0 
+
+函数名: CDetourDisX64::AdjustTarget
+地址: 0x3AF60 
+
+函数名: std::error_category::default_error_condition
+地址: 0x1F440 
+
+函数名: CDetourDisARM64::LdrLit19::Imm
+地址: 0x36D40 
+
+函数名: __security_check_cookie
+地址: 0x46D80 
+
+函数名: Detour::CImageImportFile::__autoclassinit2
+地址: 0x42F10 
+
+函数名: Detour::CImageImportFile::~CImageImportFile
+地址: 0x3D860 
+
+函数名: FindAndAllocateNearBase
+地址: 0x27130 
+
+函数名: CDetourDisARM64::Branch26::AssembleB
+地址: 0x35230 
+
+函数名: gwp_asan::GuardedPoolAllocator::pointerIsMine
+地址: 0x20680 
+
+函数名: CDetourDisARM64::Adr19::Assemble
+地址: 0x34880 
+
+函数名: std::_Ptr_cat<tagMODULEENTRY32W,tagMODULEENTRY32W>
+地址: 0x22EA0 
+
+函数名: gwp_asan::GuardedPoolAllocator::allocationSlotOffset
+地址: 0x1EA60 
+
+函数名: CDetourDisX64::CopyBytesJump
+地址: 0x3A220 
+
+函数名: std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >::max_size
+地址: 0x26520 
+
+函数名: StringCchLengthA
+地址: 0x28000 
+
+函数名: _RTC_UninitUse
+地址: 0x481A0 
+
+函数名: CDetourDisARM64::Tbz14::Assemble
+地址: 0x34FE0 
+
+函数名: gwp_asan::GuardedPoolAllocator::addrToMetadata
+地址: 0x1E530 
+
+函数名: ReplaceOptionalSizeA
+地址: 0x27C30 
+
+函数名: DetourFindPayloadEx
+地址: 0x452B0 
+
+函数名: std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> >::~_Vector_val<std::_Simple_types<tagMODULEENTRY32W> >
+地址: 0x243B0 
+
+函数名: CDetourDisARM::EmitBranch11
+地址: 0x33540 
+
+函数名: detour_alloc_round_down_to_region
+地址: 0x2C4F0 
+
+函数名: gwp_asan::options::getPrintBacktraceFunction
+地址: 0x21E60 
+
+函数名: DetourSetCodeModuleARM64
+地址: 0x36F70 
+
+函数名: std::_Iterator_base12::~_Iterator_base12
+地址: 0x24470 
+
+函数名: Detour::CImage::NewByway
+地址: 0x3F7C0 
+
+函数名: std::_Debug_range2<tagMODULEENTRY32W *>
+地址: 0x22C00 
+
+函数名: Detour_AssertExprWithFunctionName
+地址: 0x2BA40 
+
+函数名: DETOUR_IA64_BUNDLE::IsMovlGp
+地址: 0x38080 
+
+函数名: _RTC_Shutdown
+地址: 0x46DE0 
+
+函数名: EnumerateModulesInProcess
+地址: 0x26F90 
+
+函数名: CDetourDisX86::CopyBytesRax
+地址: 0x3CD70 
+
+函数名: std::_System_error_category::message
+地址: 0x20470 
+
+函数名: std::allocator<std::_Container_proxy>::allocate
+地址: 0x1EA00 
+
+函数名: std::_String_alloc<0,std::_String_base_types<char,std::allocator<char> > >::_String_alloc<0,std::_String_base_types<char,std::allocator<char> > >
+地址: 0x1C730 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::max_size
+地址: 0x20210 
+
+函数名: std::_Debug_range<tagMODULEENTRY32W *>
+地址: 0x22CB0 
+
+函数名: detour_is_imported
+地址: 0x2D5D0 
+
+函数名: ResetSymbolCallback
+地址: 0x40BE0 
+
+函数名: gwp_asan::GuardedPoolAllocator::shouldSample
+地址: 0x213E0 
+
+函数名: DetourEnumerateImportsEx
+地址: 0x44600 
+
+函数名: DetourDetach
+地址: 0x2E6E0 
+
+函数名: CDetourDisARM::EncodeBranch5
+地址: 0x34370 
+
+函数名: DetourCreateProcessWithDllsA
+地址: 0x2A310 
+
+函数名: CDetourDisARM64::AddImm12::Assemble
+地址: 0x34750 
+
+函数名: Detour::CImage::__autoclassinit2
+地址: 0x42DF0 
+
+函数名: std::_Uninit_move<tagMODULEENTRY32W *,tagMODULEENTRY32W *,std::allocator<tagMODULEENTRY32W>,tagMODULEENTRY32W>
+地址: 0x23100 
+
+函数名: DetourEnumerateImports
+地址: 0x44520 
+
+函数名: std::`dynamic initializer for 'allocator_arg''
+地址: 0x1BB70 
+
+函数名: std::`dynamic initializer for 'allocator_arg''
+地址: 0x1B6C0 
+
+函数名: std::`dynamic initializer for 'allocator_arg''
+地址: 0x1B5B0 
+
+函数名: std::`dynamic initializer for 'allocator_arg''
+地址: 0x1B4F0 
+
+函数名: std::`dynamic initializer for 'allocator_arg''
+地址: 0x1B300 
+
+函数名: GetPdbDllFromInstallPath
+地址: 0x489C0 
+
+函数名: CDetourDis::CopyBytesJump
+地址: 0x2FAB0 
+
+函数名: detour_align_from_trampoline
+地址: 0x2C130 
+
+函数名: gwp_asan::`anonymous namespace'::defaultPrintStackTrace
+地址: 0x1F2C0 
+
+函数名: DetourTransactionBegin
+地址: 0x2EDC0 
+
+函数名: DETOUR_IA64_BUNDLE::SetNop0
+地址: 0x39780 
+
+函数名: DETOUR_IA64_BUNDLE::SetNop1
+地址: 0x397E0 
+
+函数名: DETOUR_IA64_BUNDLE::SetNop2
+地址: 0x39840 
+
+函数名: Detour::CImageChars::CImageChars
+地址: 0x3D470 
+
+函数名: DETOUR_IA64_BUNDLE::SetBrl
+地址: 0x38990 
+
+函数名: DETOUR_IA64_BUNDLE::SetBrl
+地址: 0x38910 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_Iostream_object''
+地址: 0x4C110 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_Iostream_object''
+地址: 0x4C020 
+
+函数名: `dynamic atexit destructor for 'std::_Error_objects<int>::_Iostream_object''
+地址: 0x4BF30 
+
+函数名: DETOUR_IA64_BUNDLE::SetNop
+地址: 0x398A0 
+
+函数名: __clean_type_info_names
+地址: 0x48810 
+
+函数名: std::allocator<tagMODULEENTRY32W>::max_size
+地址: 0x26580 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >
+地址: 0x24010 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >
+地址: 0x23F30 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Xlen
+地址: 0x25F80 
+
+函数名: DETOUR_IA64_BUNDLE::SetBrlTarget
+地址: 0x38B50 
+
+函数名: gwp_asan::GuardedPoolAllocator::AllocationMetadata::RecordDeallocation
+地址: 0x1D7C0 
+
+函数名: CDetourDisX86::CopyInstruction
+地址: 0x3CE00 
+
+函数名: CDetourDisX64::Copy0FB8
+地址: 0x3B2C0 
+
+函数名: DETOUR_IA64_BUNDLE::GetBrlTarget
+地址: 0x37250 
+
+函数名: gwp_asan::GuardedPoolAllocator::markInaccessible
+地址: 0x220F0 
+
+函数名: DetourBinaryWrite
+地址: 0x43610 
+
+函数名: CDetourDisX64::SetCodeModule
+地址: 0x3B6C0 
+
+函数名: std::_Val_type<tagMODULEENTRY32W *>
+地址: 0x23300 
+
+函数名: _except_handler4
+地址: 0x46F40 
+
+函数名: std::allocator<tagMODULEENTRY32W>::construct<tagMODULEENTRY32W,tagMODULEENTRY32W &>
+地址: 0x234B0 
+
+函数名: CDetourDisARM::DecodeLiteralLoad12
+地址: 0x33230 
+
+函数名: CDetourDisX64::CopyVexCommon
+地址: 0x3B430 
+
+函数名: std::_System_error_category::name
+地址: 0x20640 
+
+函数名: std::_Iostream_error_category::~_Iostream_error_category
+地址: 0x1CF70 
+
+函数名: Detour::CImage::Read
+地址: 0x3FA90 
+
+函数名: std::allocator_traits<std::allocator<char> >::max_size
+地址: 0x201C0 
+
+函数名: RecordExeRestore
+地址: 0x27990 
+
+函数名: CDetourDisX86::CopyBytes
+地址: 0x3B900 
+
+函数名: DetourCopyPayloadToProcessEx
+地址: 0x29720 
+
+函数名: Detour::CImage::`scalar deleting destructor'
+地址: 0x3DB70 
+
+函数名: CDetourDisARM::GetLongInstruction
+地址: 0x344D0 
+
+函数名: Detour::CImage::AlignFileData
+地址: 0x3DD10 
+
+函数名: gwp_asan::GuardedPoolAllocator::markReadWrite
+地址: 0x22230 
+
+函数名: std::_Iterator_base12::_Getcont
+地址: 0x25770 
+
+函数名: std::_Wrap_alloc<std::allocator<char> >::_Wrap_alloc<std::allocator<char> >
+地址: 0x1C860 
+
+函数名: std::_String_val<std::_Simple_types<char> >::_String_val<std::_Simple_types<char> >
+地址: 0x1C7E0 
+
+函数名: AllocExeHelper
+地址: 0x26B80 
+
+函数名: DetourTransactionAbort
+地址: 0x2EB80 
+
+函数名: std::_Iter_cat<tagMODULEENTRY32W *>
+地址: 0x22E20 
+
+函数名: Detour::CImageData::IsValid
+地址: 0x3F6A0 
+
+函数名: _RTC_GetErrDesc
+地址: 0x482F0 
+
+函数名: _RTC_AllocaHelper
+地址: 0x46B90 
+
+函数名: DetourAllocateRegionWithinJumpBounds
+地址: 0x2DC90 
+
+函数名: `eh vector destructor iterator'
+地址: 0x470B0 
+
+函数名: CDetourDisARM::DecodeBranch5
+地址: 0x33040 
+
+函数名: std::_String_alloc<0,std::_String_base_types<char,std::allocator<char> > >::~_String_alloc<0,std::_String_base_types<char,std::allocator<char> > >
+地址: 0x1CDB0 
+
+函数名: std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::~_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >
+地址: 0x24310 
+
+函数名: std::_Iterator012<std::random_access_iterator_tag,tagMODULEENTRY32W,int,tagMODULEENTRY32W const *,tagMODULEENTRY32W const &,std::_Iterator_base12>::~_Iterator012<std::random_access_iterator_tag,tagMODULEENTRY32W,int,tagMODULEENTRY32W const *,tagMODULEENTRY32W const &,std::_Iterator_base12>
+地址: 0x24260 
+
+函数名: _RTC_CheckStackVars
+地址: 0x46CE0 
+
+函数名: std::error_category::equivalent
+地址: 0x1F650 
+
+函数名: std::error_category::equivalent
+地址: 0x1F5B0 
+
+函数名: std::_Uninitialized_move<tagMODULEENTRY32W *,tagMODULEENTRY32W *,std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> > >
+地址: 0x23260 
+
+函数名: CDetourDisARM64::CopyLdrLiteral
+地址: 0x36160 
+
+函数名: DetourFindRemotePayload
+地址: 0x2A6B0 
+
+函数名: _aullshr
+地址: 0x46F70 
+
+函数名: CDetourDisX64::CopyBytesSegment
+地址: 0x3A110 
+
+函数名: std::`dynamic initializer for 'piecewise_construct''
+地址: 0x1BC00 
+
+函数名: std::`dynamic initializer for 'piecewise_construct''
+地址: 0x1B750 
+
+函数名: std::`dynamic initializer for 'piecewise_construct''
+地址: 0x1B640 
+
+函数名: std::`dynamic initializer for 'piecewise_construct''
+地址: 0x1B530 
+
+函数名: std::`dynamic initializer for 'piecewise_construct''
+地址: 0x1B390 
+
+函数名: gwp_asan::GuardedPoolAllocator::getSize
+地址: 0x1FB00 
+
+函数名: DetourCopyPayloadToProcess
+地址: 0x29690 
+
+函数名: DetourAttach
+地址: 0x2DFB0 
+
+函数名: Detour::ReleaseString
+地址: 0x40AA0 
+
+函数名: CDetourDisARM::BeginCopy32
+地址: 0x31A20 
+
+函数名: CDetourDisARM64::CopyCbz
+地址: 0x35C90 
+
+函数名: CDetourDisARM::CalculateExtra
+地址: 0x31D80 
+
+函数名: CDetourDisX64::__autoclassinit2
+地址: 0x3B730 
+
+函数名: DetourCopyInstructionX86
+地址: 0x3D220 
+
+函数名: std::_Debug_pointer<char>
+地址: 0x1C180 
+
+函数名: DETOUR_IA64_BUNDLE::RelocateBundle
+地址: 0x38180 
+
+函数名: DetourSetCodeModule
+地址: 0x310E0 
+
+函数名: DetourSetCodeModuleIA64
+地址: 0x39D10 
+
+函数名: CDetourDisARM64::Branch26::Imm
+地址: 0x36CA0 
+
+函数名: gwp_asan::compression::`anonymous namespace'::varIntDecode
+地址: 0x226A0 
+
+函数名: CDetourDis::CopyVexEvexCommon
+地址: 0x30D50 
+
+函数名: CDetourDisARM::EmitImmediateRegisterLoad32
+地址: 0x33720 
+
+函数名: CDetourDisARM64::CopyInstruction
+地址: 0x35F20 
+
+函数名: PadToDword
+地址: 0x27910 
+
+函数名: NewMalloc
+地址: 0x24DA0 
+
+函数名: detour_alloc_trampoline_allocate_new
+地址: 0x2C880 
+
+函数名: std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >
+地址: 0x23C80 
+
+函数名: _RTC_GetSrcLine
+地址: 0x48D90 
+
+函数名: `dynamic atexit destructor for 'gwp_asan::GuardedPoolAllocator::ThreadLocals''
+地址: 0x4BE90 
+
+函数名: std::_Iterator_base12::_Getpnext
+地址: 0x257E0 
+
+函数名: CDetourDisARM64::Cbz19::Imm
+地址: 0x36CF0 
+
+函数名: std::allocator<char>::destroy<char *>
+地址: 0x1C570 
+
+函数名: std::_Wrap_alloc<std::allocator<char> >::construct<char *,char * &>
+地址: 0x1C230 
+
+函数名: CDetourDisARM::DecodeBranch24
+地址: 0x32E60 
+
+函数名: CDetourDisARM::DecodeBranch20
+地址: 0x32CC0 
+
+函数名: Detour::CImage::DataFind
+地址: 0x3E840 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::_Reserve
+地址: 0x25D90 
+
+函数名: DetourCreateProcessWithDllsW
+地址: 0x2A4E0 
+
+函数名: std::_Generic_error_category::name
+地址: 0x205C0 
+
+函数名: LoadNtHeaderFromProcess
+地址: 0x27750 
+
+函数名: std::error_condition::category
+地址: 0x1EE90 
+
+函数名: CDetourDisARM::__autoclassinit2
+地址: 0x34590 
+
+函数名: `anonymous namespace'::Symbolize
+地址: 0x21B10 
+
+函数名: std::char_traits<char>::assign
+地址: 0x1EE10 
+
+函数名: std::allocator_traits<std::allocator<char> >::construct<char *,char * &>
+地址: 0x1C3A0 
+
+函数名: DETOUR_IA64_BUNDLE::GetData0
+地址: 0x372C0 
+
+函数名: DetourSetIgnoreTooSmall
+地址: 0x2EA40 
+
+函数名: DETOUR_IA64_BUNDLE::SetData0
+地址: 0x38BD0 
+
+函数名: gwp_asan::`anonymous namespace'::ScopedBoolean::~ScopedBoolean
+地址: 0x1CE70 
+
+函数名: DetourVirtualProtectSameExecute
+地址: 0x2F580 
+
+函数名: gwp_asan::GuardedPoolAllocator::reportError
+地址: 0x20F50 
+
+函数名: `dynamic initializer for 'allocator''
+地址: 0x1BA70 
+
+函数名: CDetourDisARM64::CopyTbz
+地址: 0x363B0 
+
+函数名: DETOUR_IA64_BUNDLE::GetX
+地址: 0x37F20 
+
+函数名: DetourFindPayload
+地址: 0x45000 
+
+函数名: DETOUR_IA64_BUNDLE::GetX6
+地址: 0x37EB0 
+
+函数名: CDetourDis::CopyVex3
+地址: 0x30500 
+
+函数名: DETOUR_IA64_BUNDLE::GetX3
+地址: 0x37E40 
+
+函数名: CDetourDisARM::EmitLiteralLoad12
+地址: 0x33810 
+
+函数名: std::allocator<tagMODULEENTRY32W>::construct<tagMODULEENTRY32W,tagMODULEENTRY32W>
+地址: 0x23760 
+
+函数名: CDetourDis::Copy0F78
+地址: 0x2FE10 
+
+函数名: DetourPageProtectAdjustExecute
+地址: 0x2B950 
+
+函数名: CDetourDisARM::EmitLiteralLoad8
+地址: 0x339F0 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Xlen
+地址: 0x1E470 
+
+函数名: std::allocator<char>::deallocate
+地址: 0x1F190 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::begin
+地址: 0x26220 
+
+函数名: GetPdbDllPathFromFilePath
+地址: 0x48C80 
+
+函数名: DetourIsFunctionImported
+地址: 0x2E9E0 
+
+函数名: ULongLongToULong
+地址: 0x289C0 
+
+函数名: std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::operator*
+地址: 0x24660 
+
+函数名: DetourSetCodeModuleX86
+地址: 0x3D2F0 
+
+函数名: Detour::CImage::Write
+地址: 0x414A0 
+
+函数名: CDetourDis::CDetourDis
+地址: 0x30890 
+
+函数名: GetPdbDll
+地址: 0x48830 
+
+函数名: gwp_asan::ThreadLocalPointer<gwp_asan::ThreadLocalPackedVariables>::~ThreadLocalPointer<gwp_asan::ThreadLocalPackedVariables>
+地址: 0x1CD50 
+
+函数名: CDetourDisARM::EncodeBranch24
+地址: 0x341D0 
+
+函数名: CDetourDisARM::EncodeBranch20
+地址: 0x34080 
+
+函数名: Detour::CImageData::Enumerate
+地址: 0x3F330 
+
+函数名: `anonymous namespace'::PrintBacktrace
+地址: 0x21780 
+
+函数名: CDetourDisARM64::Adr19::AssembleAdr
+地址: 0x35170 
+
+函数名: Detour::CImage::ZeroFileData
+地址: 0x42C80 
+
+函数名: std::allocator<char>::allocator<char>
+地址: 0x1C8C0 
+
+函数名: gwp_asan::GuardedPoolAllocator::AllocationMetadata::RecordAllocation
+地址: 0x1D630 
+
+函数名: std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >
+地址: 0x23E90 
+
+函数名: Detour::CImage::DataSet
+地址: 0x3E920 
+
+函数名: CDetourDisX64::CopyVexEvexCommon
+地址: 0x3B4D0 
+
+函数名: gwp_asan::ThreadLocalWindowsPlatform::FreeSlot
+地址: 0x22950 
+
+函数名: DETOUR_IA64_BUNDLE::GetData1
+地址: 0x37330 
+
+函数名: std::_String_val<std::_Simple_types<char> >::_Myptr
+地址: 0x1E2D0 
+
+函数名: std::_String_val<std::_Simple_types<char> >::_Myptr
+地址: 0x1E240 
+
+函数名: DETOUR_IA64_BUNDLE::SetData1
+地址: 0x38C70 
+
+函数名: gwp_asan::GuardedPoolAllocator::slotToAddr
+地址: 0x21550 
+
+函数名: gwp_asan::options::Options::Options
+地址: 0x24170 
+
+函数名: pre_c_init
+地址: 0x47280 
+
+函数名: __security_init_cookie
+地址: 0x48680 
+
+函数名: Detour::Align
+地址: 0x3DCC0 
+
+函数名: Detour::CImage::AllocateOutput
+地址: 0x3E120 
+
+函数名: CDetourDisARM64::GetInstruction
+地址: 0x36B90 
+
+函数名: operator new[]
+地址: 0x46460 
+
+函数名: gwp_asan::GuardedPoolAllocator::mapMemory
+地址: 0x22000 
+
+函数名: CDetourDis::CopyVex2
+地址: 0x303F0 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::size
+地址: 0x21510 
+
+函数名: std::error_condition::error_condition
+地址: 0x1CD00 
+
+函数名: Detour::CImageThunks::Current
+地址: 0x3E6E0 
+
+函数名: std::_Wrap_alloc<std::allocator<std::_Container_proxy> >::deallocate
+地址: 0x26390 
+
+函数名: Detour::CImage::RvaToVa
+地址: 0x40D00 
+
+函数名: StringCopyWorkerW
+地址: 0x282F0 
+
+函数名: CDetourDisX64::CDetourDisX64
+地址: 0x3AE40 
+
+函数名: ResetBywayCallback
+地址: 0x40B40 
+
+函数名: detour_alloc_trampoline
+地址: 0x2C5A0 
+
+函数名: NewRealloc
+地址: 0x24EB0 
+
+函数名: gwp_asan::GuardedPoolAllocator::isGuardPage
+地址: 0x1FFA0 
+
+函数名: StringCopyWorkerA
+地址: 0x43E00 
+
+函数名: StringCopyWorkerA
+地址: 0x412A0 
+
+函数名: StringCopyWorkerA
+地址: 0x2BD30 
+
+函数名: StringCopyWorkerA
+地址: 0x28200 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::end
+地址: 0x264B0 
+
+函数名: gwp_asan::getSingleton
+地址: 0x1FAC0 
+
+函数名: CDetourDisARM::EncodeBranch11
+地址: 0x33FE0 
+
+函数名: std::allocator_traits<std::allocator<std::_Container_proxy> >::destroy<std::_Container_proxy>
+地址: 0x23930 
+
+函数名: std::vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >::~vector<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> >
+地址: 0x24410 
+
+函数名: `eh vector constructor iterator'
+地址: 0x46FD0 
+
+函数名: __ArrayUnwind
+地址: 0x471D0 
+
+函数名: DetourAreSameGuid
+地址: 0x2DD90 
+
+函数名: Detour::CImageData::Find
+地址: 0x3F4C0 
+
+函数名: Detour::CImage::WriteFile
+地址: 0x42C10 
+
+函数名: gwp_asan::GuardedPoolAllocator::init
+地址: 0x1FC20 
+
+函数名: gwp_asan::compression::pack
+地址: 0x22460 
+
+函数名: gwp_asan::options::getBacktraceFunction
+地址: 0x21E20 
+
+函数名: CDetourDisX64::CopyF3
+地址: 0x3A6C0 
+
+函数名: CDetourDisX64::CopyF2
+地址: 0x3A650 
+
+函数名: CDetourDisX64::CopyF7
+地址: 0x3A7E0 
+
+函数名: CDetourDisX64::CopyF6
+地址: 0x3A730 
+
+函数名: DETOUR_IA64_BUNDLE::SetBrlImm
+地址: 0x38A10 
+
+函数名: Detour::Max
+地址: 0x3F760 
+
+函数名: CDetourDisX64::Copy67
+地址: 0x3A5E0 
+
+函数名: CDetourDisX64::Copy66
+地址: 0x3A570 
+
+函数名: std::char_traits<char>::copy
+地址: 0x1EED0 
+
+函数名: DETOUR_IA64_BUNDLE::GetBrlImm
+地址: 0x37130 
+
+函数名: std::`dynamic initializer for '_Tuple_alloc''
+地址: 0x1BA30 
+
+函数名: std::`dynamic initializer for '_Tuple_alloc''
+地址: 0x1B680 
+
+函数名: std::`dynamic initializer for '_Tuple_alloc''
+地址: 0x1B570 
+
+函数名: std::`dynamic initializer for '_Tuple_alloc''
+地址: 0x1B2C0 
+
+函数名: Detour::strneq
+地址: 0x42FD0 
+
+函数名: CDetourDisARM::CopyBranchOrMiscellaneous32
+地址: 0x32040 
+
+函数名: CDetourDisARM::CopyBranchExchangeOrDataProcessing16
+地址: 0x31990 
+
+函数名: std::_Destroy_range<std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> > >
+地址: 0x22DB0 
+
+函数名: std::_Destroy_range<std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> > >
+地址: 0x22D30 
+
+函数名: std::allocator<tagMODULEENTRY32W>::allocate
+地址: 0x261C0 
+
+函数名: std::_Vector_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::operator*
+地址: 0x247A0 
+
+函数名: UpdateImports32
+地址: 0x28AA0 
+
+函数名: std::_Ignore::_Ignore
+地址: 0x1CBB0 
+
+函数名: __report_gsfailure
+地址: 0x46780 
+
+函数名: std::_Vector_alloc<0,std::_Vec_base_types<tagMODULEENTRY32W,std::allocator<tagMODULEENTRY32W> > >::_Alloc_proxy
+地址: 0x25240 
+
+函数名: gwp_asan::ThreadLocalWindowsPlatform::SetValueInSlot
+地址: 0x22A50 
+
+函数名: DETOUR_IA64_BUNDLE::GetData2
+地址: 0x373E0 
+
+函数名: std::_Generic_error_category::_Generic_error_category
+地址: 0x1CB50 
+
+函数名: _onexit
+地址: 0x465A0 
+
+函数名: CDetourDisX64::CopyFF
+地址: 0x3A890 
+
+函数名: CDetourDisX86::CopyXop
+地址: 0x3C9A0 
+
+函数名: DETOUR_IA64_BUNDLE::SetData2
+地址: 0x38D60 
+
+函数名: DETOUR_IA64_BUNDLE::SetInst
+地址: 0x39230 
+
+函数名: CustomNew
+地址: 0x24A10 
+
+函数名: CDetourDis::CopyXop
+地址: 0x30790 
+
+函数名: StringVPrintfWorkerW
+地址: 0x28650 
+
+函数名: __atonexitinit
+地址: 0x464C0 
+
+函数名: std::_String_alloc<0,std::_String_base_types<char,std::allocator<char> > >::_Getal
+地址: 0x1E040 
+
+函数名: std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<tagMODULEENTRY32W> > >::_Compat
+地址: 0x25430 
+
+函数名: gwp_asan::GuardedPoolAllocator::addrToSlot
+地址: 0x1E5A0 
+
+函数名: CDetourDisARM64::Mov16::Assemble
+地址: 0x34EC0 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::assign
+地址: 0x1ED10 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::assign
+地址: 0x1EC80 
+
+函数名: std::basic_string<char,std::char_traits<char>,std::allocator<char> >::assign
+地址: 0x1EB70 
+
+函数名: std::_Wrap_alloc<std::allocator<tagMODULEENTRY32W> >::allocate
+地址: 0x26160 
+
+函数名: Detour::CImage::SizeOutputBuffer
+地址: 0x40FF0 
+
+函数名: DetourSetCodeModuleARM
+地址: 0x346C0 
+
+函数名: std::_Allocate<char>
+地址: 0x1C050 
+
+函数名: gwp_asan::PreventSetUnhandledExceptionFilter
+地址: 0x1D400 
+
+函数名: _RTC_InitBase
+地址: 0x46DA0 
+
+函数名: `dynamic initializer for 'gwp_asan::GuardedPoolAllocator::ThreadLocals''
+地址: 0x1B080 
+
+函数名: detour_is_region_empty
+地址: 0x2D810 
+
+函数名: DetourSetCodeModuleX64
+地址: 0x3B860 
+
+函数名: std::_String_alloc<0,std::_String_base_types<char,std::allocator<char> > >::_Free_proxy
+地址: 0x1DF50 
+
+函数名: Detour::CImageThunks::__autoclassinit2
+地址: 0x42F70 
+
+函数名: DETOUR_IA64_BUNDLE::GetSignBit
+地址: 0x37BC0 
+
+函数名: gwp_asan::compression::`anonymous namespace'::zigzagEncode
+地址: 0x22860 
+
+函数名: CDetourDisARM::DecodeBranch11
+地址: 0x32BD0 
+
+函数名: detour_skip_jmp
+地址: 0x2D9D0 
+
+函数名: gwp_asan::ThreadLocalWindowsPlatform::GetValueFromSlot
+地址: 0x229F0 
+
+函数名: DETOUR_IA64_BUNDLE::SetSignBit
+地址: 0x399C0 
+
+函数名: DetourBinaryPurgePayloads
+地址: 0x43490 
+
+函数名: std::_Wrap_alloc<std::allocator<std::_Container_proxy> >::construct<std::_Container_proxy,std::_Container_proxy>
+地址: 0x23370 
+
+函数名: Detour::CImageData::Set
+地址: 0x40E60 
+
+函数名: _IsNonwritableInCurrentImage
+地址: 0x48480 
+
+函数名: CDetourDisX64::Copy0F78
+地址: 0x3A4C0 
+
+函数名: std::allocator_traits<std::allocator<tagMODULEENTRY32W> >::destroy<tagMODULEENTRY32W>
+地址: 0x23A20 
+
+函数名: gwp_asan::options::getPrintfFunction
+地址: 0x21EA0 
+
+函数名: CDetourDisX64::Invalid
+地址: 0x3A3C0 
+
+函数名: CDetourDisX86::CopyBytesPrefix
+地址: 0x3BB80 
+
+函数名: std::_String_val<std::_Simple_types<char> >::~_String_val<std::_Simple_types<char> >
+地址: 0x1CE10 
+
+函数名: __report_securityfailure
+地址: 0x468E0 
+
+函数名: detour_align_from_target
+地址: 0x2C0A0 
+
+函数名: Detour::CImage::RvaToFileOffset
+地址: 0x40C30 
+
+函数名: DETOUR_IA64_BUNDLE::GetTemplate
+地址: 0x37C30 
+
+函数名: _imp___free_dbg
+地址: 0x54284 
+
+函数名: _imp__FreeLibrary
+地址: 0x540DC 
+
+函数名: _imp__CreateToolhelp32Snapshot
+地址: 0x54054 
+
+函数名: _imp__ExitProcess
+地址: 0x54078 
+
+函数名: TlsAlloc
+地址: 0x4630E 
+
+函数名: CloseHandle
+地址: 0x46326 
+
+函数名: _imp__vfwprintf
+地址: 0x5420C 
+
+函数名: CodeViewInfo::CrossScopeId::MaxLocalId
+地址: 0x5158C 
+
+函数名: _imp_?_Xbad_allocstdYAXXZ
+地址: 0x54198 
+
+函数名: _imp__OpenProcess
+地址: 0x54090 
+
+函数名: __CppXcptFilter
+地址: 0x483C4 
+
+函数名: _imp_??0idlocalestdQAEIZ
+地址: 0x541A4 
+
+函数名: <CrtImplementationDetails>::NativeDll::ThreadAttach
+地址: 0x51520 
+
+函数名: GetProcAddress
+地址: 0x462E4 
+
+函数名: std::_System_error_category::`vftable'
+地址: 0x4E9A4 
+
+函数名: type_info::`RTTI Complete Object Locator'
+地址: 0x51B9C 
+
+函数名: Module32FirstW
+地址: 0x4633E 
+
+函数名: std::_Lockit::_Lockit
+地址: 0x46476 
+
+函数名: _imp____crtTerminateProcess
+地址: 0x54264 
+
+函数名: _imp___initterm_e
+地址: 0x54290 
+
+函数名: _imp___CrtDbgReportW
+地址: 0x54230 
+
+函数名: _invalid_parameter
+地址: 0x46EFA 
+
+函数名: `gwp_asan::ThreadLocalWindowsPlatform::SetValueInSlot'::`2'::__LINE__Var
+地址: 0x53028 
+
+函数名: _imp__QueryPerformanceCounter
+地址: 0x540FC 
+
+函数名: std::_Xlength_error
+地址: 0x4643A 
+
+函数名: _imp__IsDebuggerPresent
+地址: 0x5410C 
+
+函数名: _imp___CrtDbgReport
+地址: 0x542BC 
+
+函数名: _imp__HeapFree
+地址: 0x540F0 
+
+函数名: TlsFree
+地址: 0x46320 
+
+函数名: _imp____clean_type_info_names_internal
+地址: 0x54294 
+
+函数名: CodeViewInfo::CrossScopeId::LocalIdMask
+地址: 0x51584 
+
+函数名: CreateFileMappingW
+地址: 0x463F2 
+
+函数名: _imp__WideCharToMultiByte
+地址: 0x54100 
+
+函数名: LeaveCriticalSection
+地址: 0x462CC 
+
+函数名: GetSystemInfo
+地址: 0x46302 
+
+函数名: _imp_?_Debug_messagestdYAXPB_W0IZ
+地址: 0x54188 
+
+函数名: malloc
+地址: 0x46F0C 
+
+函数名: _imp__WriteProcessMemory
+地址: 0x54018 
+
+函数名: __crtUnhandledException
+地址: 0x4793E 
+
+函数名: _imp__TerminateProcess
+地址: 0x5407C 
+
+函数名: std::integral_constant<bool,0>::value
+地址: 0x50B69 
+
+函数名: strcmp
+地址: 0x46F1E 
+
+函数名: _imp___errno
+地址: 0x54214 
+
+函数名: _imp__LoadLibraryExA
+地址: 0x540E4 
+
+函数名: _imp__LoadLibraryExW
+地址: 0x540E8 
+
+函数名: InitializeCriticalSection
+地址: 0x462C0 
+
+函数名: type_info::`RTTI Class Hierarchy Descriptor'
+地址: 0x51BB4 
+
+函数名: type_info::`RTTI Base Class Array'
+地址: 0x51BC8 
+
+函数名: _imp__GetSystemTimeAsFileTime
+地址: 0x540F8 
+
+函数名: _wsplitpath_s
+地址: 0x490FC 
+
+函数名: _imp__sprintf_s
+地址: 0x54208 
+
+函数名: `gwp_asan::GuardedPoolAllocator::isGuardPage'::`2'::__LINE__Var
+地址: 0x53010 
+
+函数名: std::error_category::`RTTI Class Hierarchy Descriptor'
+地址: 0x51A40 
+
+函数名: std::error_category::`RTTI Base Class Array'
+地址: 0x51A54 
+
+函数名: _imp__GetThreadContext
+地址: 0x540A8 
+
+函数名: _imp___CRT_RTC_INITW
+地址: 0x54268 
+
+函数名: printf
+地址: 0x46F00 
+
+函数名: exit
+地址: 0x46B70 
+
+函数名: _imp__UnmapViewOfFile
+地址: 0x540D8 
+
+函数名: MultiByteToWideChar
+地址: 0x462F6 
+
+函数名: _imp__ReadProcessMemory
+地址: 0x540A0 
+
+函数名: std::_Generic_error_category `RTTI Type Descriptor'
+地址: 0x531C8 
+
+函数名: _unlock
+地址: 0x47926 
+
+函数名: CodeViewInfo::CrossScopeId::LocalIdBitWidth
+地址: 0x51578 
+
+函数名: SetLastError
+地址: 0x46362 
+
+函数名: _imp__memcpy
+地址: 0x542AC 
+
+函数名: _imp__SetUnhandledExceptionFilter
+地址: 0x54000 
+
+函数名: _imp___amsg_exit
+地址: 0x5427C 
+
+函数名: GetEnvironmentVariableW
+地址: 0x46350 
+
+函数名: dbghelp_NULL_THUNK_DATA
+地址: 0x54324 
+
+函数名: _hypot
+地址: 0x46B76 
+
+函数名: _purecall
+地址: 0x464A6 
+
+函数名: _imp__GetCurrentProcessId
+地址: 0x5404C 
+
+函数名: __CxxFrameHandler3
+地址: 0x46DF8 
+
+函数名: _initterm_e
+地址: 0x48804 
+
+函数名: WriteProcessMemory
+地址: 0x462DE 
+
+函数名: terminate
+地址: 0x483BE 
+
+函数名: _imp__TlsSetValue
+地址: 0x54040 
+
+函数名: _imp__GetModuleHandleW
+地址: 0x540E0 
+
+函数名: std::locale::id::id
+地址: 0x46446 
+
+函数名: _imp_??1_LockitstdQAEXZ
+地址: 0x54184 
+
+函数名: TlsGetValue
+地址: 0x46314 
+
+函数名: _imp__RtlCaptureStackBackTrace
+地址: 0x54024 
+
+函数名: _imp__memset
+地址: 0x54210 
+
+函数名: std::error_category::`RTTI Complete Object Locator'
+地址: 0x51A28 
+
+函数名: std::_Winerror_map
+地址: 0x46452 
+
+函数名: GetFileSize
+地址: 0x463E0 
+
+函数名: _imp_?_Xout_of_rangestdYAXPBDZ
+地址: 0x541A0 
+
+函数名: MSVCP120D_NULL_THUNK_DATA
+地址: 0x541B8 
+
+函数名: _imp__InitializeCriticalSection
+地址: 0x54004 
+
+函数名: _imp___time64
+地址: 0x54218 
+
+函数名: LoadLibraryExW
+地址: 0x46416 
+
+函数名: fclose
+地址: 0x46ED0 
+
+函数名: std::_Container_base12::_Container_base12
+地址: 0x46422 
+
+函数名: std::_Syserror_map
+地址: 0x4644C 
+
+函数名: _vsnprintf
+地址: 0x46F24 
+
+函数名: std::_Container_base12::~_Container_base12
+地址: 0x46428 
+
+函数名: CreateToolhelp32Snapshot
+地址: 0x46338 
+
+函数名: <CrtImplementationDetails>::NativeDll::ThreadDetach
+地址: 0x51524 
+
+函数名: _imp___initterm
+地址: 0x5428C 
+
+函数名: __clean_type_info_names_internal
+地址: 0x490EA 
+
+函数名: LoadLibraryW
+地址: 0x462EA 
+
+函数名: operator delete[]
+地址: 0x46F30 
+
+函数名: _imp__VirtualProtectEx
+地址: 0x54098 
+
+函数名: KERNEL32_NULL_THUNK_DATA
+地址: 0x5411C 
+
+函数名: IsDebuggerPresent
+地址: 0x4910E 
+
+函数名: GetEnvironmentVariableA
+地址: 0x4634A 
+
+函数名: std::_Xbad_alloc
+地址: 0x46434 
+
+函数名: _imp__GetProcAddress
+地址: 0x5401C 
+
+函数名: _imp__strlen
+地址: 0x542A8 
+
+函数名: _imp____CppXcptFilter
+地址: 0x54278 
+
+函数名: std::_Generic_error_category::`RTTI Complete Object Locator'
+地址: 0x51A80 
+
+函数名: swprintf_s
+地址: 0x46B7C 
+
+函数名: _imp__CreateFileMappingW
+地址: 0x540D0 
+
+函数名: _imp__SymFromAddr
+地址: 0x54320 
+
+函数名: ReadProcessMemory
+地址: 0x463AA 
+
+函数名: std::error_category `RTTI Type Descriptor'
+地址: 0x531A0 
+
+函数名: CodeViewInfo::CrossScopeId::IdScopeBitWidth
+地址: 0x5157C 
+
+函数名: std::_Generic_error_category::`RTTI Class Hierarchy Descriptor'
+地址: 0x51A98 
+
+函数名: std::_Generic_error_category::`RTTI Base Class Array'
+地址: 0x51AAC 
+
+函数名: _imp__Module32NextW
+地址: 0x5405C 
+
+函数名: _CrtSetCheckCount
+地址: 0x483DC 
+
+函数名: _lock
+地址: 0x47920 
+
+函数名: _imp___except_handler4_common
+地址: 0x54270 
+
+函数名: VirtualFree
+地址: 0x463C8 
+
+函数名: VirtualAlloc
+地址: 0x46308 
+
+函数名: _imp___unlock
+地址: 0x5424C 
+
+函数名: std::_Iostream_error_category::`RTTI Base Class Array'
+地址: 0x51B08 
+
+函数名: std::_Iostream_error_category::`RTTI Class Hierarchy Descriptor'
+地址: 0x51AF4 
+
+函数名: _imp__SetThreadContext
+地址: 0x540AC 
+
+函数名: std::error_category::`RTTI Base Class Descriptor at (0,-1,0,64)'
+地址: 0x51A5C 
+
+函数名: MSVCR120D_NULL_THUNK_DATA
+地址: 0x542C0 
+
+函数名: _imp__GetCurrentThread
+地址: 0x54050 
+
+函数名: _imp__GetSystemInfo
+地址: 0x54030 
+
+函数名: LoadLibraryExA
+地址: 0x46410 
+
+函数名: MapViewOfFileEx
+地址: 0x463F8 
+
+函数名: _imp____crtUnhandledException
+地址: 0x54260 
+
+函数名: _imp__EnterCriticalSection
+地址: 0x54008 
+
+函数名: WaitForSingleObject
+地址: 0x46368 
+
+函数名: VirtualQuery
+地址: 0x463CE 
+
+函数名: std::_Container_base12::_Orphan_all
+地址: 0x4642E 
+
+函数名: GetLastError
+地址: 0x4635C 
+
+函数名: _imp__exit
+地址: 0x54244 
+
+函数名: std::_Debug_message
+地址: 0x4641C 
+
+函数名: _crt_debugger_hook
+地址: 0x47938 
+
+函数名: ResumeThread
+地址: 0x46380 
+
+函数名: _imp__swprintf_s
+地址: 0x541F0 
+
+函数名: _imp__VirtualAllocEx
+地址: 0x54094 
+
+函数名: _imp___crt_debugger_hook
+地址: 0x5425C 
+
+函数名: _imp__fopen_s
+地址: 0x54204 
+
+函数名: _imp___CxxThrowException
+地址: 0x541F8 
+
+函数名: gwp_asan::`anonymous namespace'::SingletonPtr
+地址: 0x53388 
+
+函数名: std::error_category::`vftable'
+地址: 0x4E8F4 
+
+函数名: _imp__memmove
+地址: 0x542A4 
+
+函数名: _imp__FlushInstructionCache
+地址: 0x540B0 
+
+函数名: GetCurrentThreadId
+地址: 0x462FC 
+
+函数名: _imp_?_Swap_all_Container_base12stdQAEXAAU12Z
+地址: 0x541B4 
+
+函数名: operator new
+地址: 0x464AC 
+
+函数名: _imp__VirtualQuery
+地址: 0x540B8 
+
+函数名: VirtualProtect
+地址: 0x462D8 
+
+函数名: _imp__GetCurrentProcess
+地址: 0x54010 
+
+函数名: _imp___hypot
+地址: 0x541EC 
+
+函数名: _imp_??_VYAXPAXZ
+地址: 0x54240 
+
+函数名: _imp___lock
+地址: 0x54248 
+
+函数名: _imp__wcscpy_s
+地址: 0x54298 
+
+函数名: _imp__free
+地址: 0x54224 
+
+函数名: std::_System_error_category::`RTTI Complete Object Locator'
+地址: 0x51B3C 
+
+函数名: _imp__SymInitialize
+地址: 0x54314 
+
+函数名: TlsSetValue
+地址: 0x4631A 
+
+函数名: _imp__SetFilePointer
+地址: 0x540C8 
+
+函数名: _imp__GetEnvironmentVariableA
+地址: 0x54060 
+
+函数名: _imp_?_Orphan_all_Container_base12stdQAEXXZ
+地址: 0x54194 
+
+函数名: _imp__LoadLibraryW
+地址: 0x54020 
+
+函数名: GetModuleHandleW
+地址: 0x4640A 
+
+函数名: _wassert
+地址: 0x46B82 
+
+函数名: _imp_??0_Container_base12stdQAEXZ
+地址: 0x5418C 
+
+函数名: _imp_??1_Container_base12stdQAEXZ
+地址: 0x54190 
+
+函数名: _imp__VirtualAlloc
+地址: 0x54034 
+
+函数名: _imp__SymGetLineFromAddr64
+地址: 0x54318 
+
+函数名: _enc$textbss$begin
+地址: 0x1000 
+
+函数名: SuspendThread
+地址: 0x463B0 
+
+函数名: type_info::`vftable'
+地址: 0x50D0C 
+
+函数名: _IMPORT_DESCRIPTOR_MSVCP120D
+地址: 0x54364 
+
+函数名: _IMPORT_DESCRIPTOR_MSVCR120D
+地址: 0x5438C 
+
+函数名: std::_Generic_error_category::`RTTI Base Class Descriptor at (0,-1,0,64)'
+地址: 0x51AB8 
+
+函数名: _imp_?_Syserror_mapstdYAPBDHZ
+地址: 0x541A8 
+
+函数名: RaiseException
+地址: 0x4911A 
+
+函数名: realloc
+地址: 0x46F12 
+
+函数名: operator delete
+地址: 0x464B2 
+
+函数名: VirtualProtectEx
+地址: 0x4639E 
+
+函数名: std::_Iostream_error_category::`RTTI Complete Object Locator'
+地址: 0x51ADC 
+
+函数名: GetExitCodeProcess
+地址: 0x4637A 
+
+函数名: GetCurrentThread
+地址: 0x46332 
+
+函数名: _imp__GetProcessHeap
+地址: 0x540EC 
+
+函数名: _imp_?terminateYAXXZ
+地址: 0x54274 
+
+函数名: memset
+地址: 0x46EE8 
+
+函数名: std::_Generic_error_category::`vftable'
+地址: 0x4E918 
+
+函数名: GetModuleFileNameW
+地址: 0x49144 
+
+函数名: _imp___wmakepath_s
+地址: 0x5429C 
+
+函数名: _imp__WaitForSingleObject
+地址: 0x54074 
+
+函数名: type_info::~type_info
+地址: 0x483B2 
+
+函数名: _imp__CreateProcessW
+地址: 0x5408C 
+
+函数名: _imp__CreateProcessA
+地址: 0x54088 
+
+函数名: _imp___purecall
+地址: 0x542B8 
+
+函数名: _imp__TlsGetValue
+地址: 0x5403C 
+
+函数名: CodeViewInfo::CrossScopeId::ScopeIdMask
+地址: 0x51588 
+
+函数名: __dllonexit
+地址: 0x47932 
+
+函数名: _imp__SymSetOptions
+地址: 0x5431C 
+
+函数名: _imp__EncodePointer
+地址: 0x54114 
+
+函数名: _imp___vsnwprintf
+地址: 0x5423C 
+
+函数名: GetCurrentProcessId
+地址: 0x4632C 
+
+函数名: _imp__MapViewOfFileEx
+地址: 0x540D4 
+
+函数名: _imp__GetFileSize
+地址: 0x540C4 
+
+函数名: strlen
+地址: 0x46B64 
+
+函数名: _imp___CrtSetCheckCount
+地址: 0x54288 
+
+函数名: _imp___vsnprintf
+地址: 0x54238 
+
+函数名: _imp__VirtualFree
+地址: 0x540B4 
+
+函数名: Module32NextW
+地址: 0x46344 
+
+函数名: std::_Lockit::~_Lockit
+地址: 0x4647C 
+
+函数名: std::_Container_base12::_Getpfirst
+地址: 0x46482 
+
+函数名: _except_handler4_common
+地址: 0x483B8 
+
+函数名: _initterm
+地址: 0x487FE 
+
+函数名: _imp_?_Winerror_mapstdYAPBDHZ
+地址: 0x541AC 
+
+函数名: GetModuleFileNameA
+地址: 0x463D4 
+
+函数名: type_info `RTTI Type Descriptor'
+地址: 0x53264 
+
+函数名: _time64
+地址: 0x46EF4 
+
+函数名: SymFromAddr
+地址: 0x464A0 
+
+函数名: std::_Iostream_error_category `RTTI Type Descriptor'
+地址: 0x531FC 
+
+函数名: _imp__VirtualQueryEx
+地址: 0x5409C 
+
+函数名: std::_Xout_of_range
+地址: 0x46440 
+
+函数名: OutputDebugStringW
+地址: 0x46356 
+
+函数名: HeapAlloc
+地址: 0x49132 
+
+函数名: _imp__DecodePointer
+地址: 0x54110 
+
+函数名: _imp__IsProcessorFeaturePresent
+地址: 0x54108 
+
+函数名: _imp____CxxFrameHandler3
+地址: 0x541FC 
+
+函数名: SetThreadContext
+地址: 0x463BC 
+
+函数名: _imp__fclose
+地址: 0x54200 
+
+函数名: RtlCaptureStackBackTrace
+地址: 0x462F0 
+
+函数名: type_info::`RTTI Base Class Descriptor at (0,-1,0,64)'
+地址: 0x51BD0 
+
+函数名: _enc$textbss$end
+地址: 0x1829D 
+
+函数名: WriteFile
+地址: 0x463EC 
+
+函数名: _imp__DebugBreak
+地址: 0x540C0 
+
+函数名: EnterCriticalSection
+地址: 0x462C6 
+
+函数名: std::_Iostream_error_category::`RTTI Base Class Descriptor at (0,-1,0,64)'
+地址: 0x51B18 
+
+函数名: _imp__GetLastError
+地址: 0x5406C 
+
+函数名: std::integral_constant<bool,1>::value
+地址: 0x50B6A 
+
+函数名: _imp___malloc_dbg
+地址: 0x54280 
+
+函数名: `gwp_asan::GuardedPoolAllocator::getSize'::`2'::__LINE__Var
+地址: 0x53004 
+
+函数名: _imp___calloc_dbg
+地址: 0x54250 
+
+函数名: _imp__ResumeThread
+地址: 0x54084 
+
+函数名: _CRT_RTC_INITW
+地址: 0x483AC 
+
+函数名: `DetourFreePayload'::`2'::__LINE__Var
+地址: 0x53058 
+
+函数名: IsProcessorFeaturePresent
+地址: 0x49114 
+
+函数名: wcscpy_s
+地址: 0x490F0 
+
+函数名: _imp__malloc
+地址: 0x54228 
+
+函数名: GetSystemTimeAsFileTime
+地址: 0x4912C 
+
+函数名: _imp_?_Xlength_errorstdYAXPBDZ
+地址: 0x5419C 
+
+函数名: std::_System_error_category::`RTTI Base Class Descriptor at (0,-1,0,64)'
+地址: 0x51B78 
+
+函数名: <CrtImplementationDetails>::NativeDll::ProcessDetach
+地址: 0x51518 
+
+函数名: memmove
+地址: 0x46B6A 
+
+函数名: FreeLibrary
+地址: 0x46404 
+
+函数名: _free_dbg
+地址: 0x483D6 
+
+函数名: CodeViewInfo::CrossScopeId::StartCrossScopeId
+地址: 0x51580 
+
+函数名: OpenProcess
+地址: 0x46392 
+
+函数名: `gwp_asan::ThreadLocalWindowsPlatform::AllocateSlot'::`2'::__LINE__Var
+地址: 0x53020 
+
+函数名: _imp__RaiseException
+地址: 0x54104 
+
+函数名: VirtualAllocEx
+地址: 0x46398 
+
+函数名: HeapFree
+地址: 0x49138 
+
+函数名: _imp_??3YAXPAXZ
+地址: 0x542B0 
+
+函数名: _imp_??0_LockitstdQAEHZ
+地址: 0x541B0 
+
+函数名: SymSetOptions
+地址: 0x4648E 
+
+函数名: memcpy
+地址: 0x46B5E 
+
+函数名: `gwp_asan::GuardedPoolAllocator::freeSlot'::`2'::__LINE__Var
+地址: 0x53014 
+
+函数名: CodeViewInfo::CrossScopeId::MaxScopeId
+地址: 0x51590 
+
+函数名: FlushInstructionCache
+地址: 0x463C2 
+
+函数名: free
+地址: 0x46F06 
+
+函数名: fopen_s
+地址: 0x46ED6 
+
+函数名: _wmakepath_s
+地址: 0x490F6 
+
+函数名: `gwp_asan::GuardedPoolAllocator::addrToSlot'::`2'::__LINE__Var
+地址: 0x53008 
+
+函数名: std::_Container_base12::_Swap_all
+地址: 0x46488 
+
+函数名: GetProcessHeap
+地址: 0x4913E 
+
+函数名: `gwp_asan::GuardedPoolAllocator::getPageAddr'::`2'::__LINE__Var
+地址: 0x5300C 
+
+函数名: <CrtImplementationDetails>::NativeDll::ProcessAttach
+地址: 0x5151C 
+
+函数名: _imp__CloseHandle
+地址: 0x54048 
+
+函数名: _imp__WriteFile
+地址: 0x540CC 
+
+函数名: `gwp_asan::GuardedPoolAllocator::allocationSlotOffset'::`2'::__LINE__Var
+地址: 0x53018 
+
+函数名: EncodePointer
+地址: 0x49102 
+
+函数名: CreateProcessA
+地址: 0x46386 
+
+函数名: _IMPORT_DESCRIPTOR_KERNEL32
+地址: 0x54350 
+
+函数名: DecodePointer
+地址: 0x49108 
+
+函数名: _CxxThrowException
+地址: 0x46D92 
+
+函数名: _malloc_dbg
+地址: 0x483D0 
+
+函数名: _imp__realloc
+地址: 0x5422C 
+
+函数名: _CrtDbgReportW
+地址: 0x46F18 
+
+函数名: _imp___wsplitpath_s
+地址: 0x542A0 
+
+函数名: `gwp_asan::GuardedPoolAllocator::dealloc'::`2'::__LINE__Var
+地址: 0x53000 
+
+函数名: _imp__MultiByteToWideChar
+地址: 0x54028 
+
+函数名: _IMPORT_DESCRIPTOR_dbghelp
+地址: 0x54378 
+
+函数名: _CrtDbgReport
+地址: 0x46F36 
+
+函数名: ExitProcess
+地址: 0x4636E 
+
+函数名: _imp__HeapAlloc
+地址: 0x540F4 
+
+函数名: SetUnhandledExceptionFilter
+地址: 0x462BA 
+
+函数名: `gwp_asan::ThreadLocalWindowsPlatform::FreeSlot'::`2'::__LINE__Var
+地址: 0x53024 
+
+函数名: TerminateProcess
+地址: 0x46374 
+
+函数名: _imp___wassert
+地址: 0x541F4 
+
+函数名: _imp__LeaveCriticalSection
+地址: 0x5400C 
+
+函数名: vfwprintf
+地址: 0x46EE2 
+
+函数名: std::_System_error_category::`RTTI Base Class Array'
+地址: 0x51B68 
+
+函数名: std::_System_error_category::`RTTI Class Hierarchy Descriptor'
+地址: 0x51B54 
+
+函数名: sprintf_s
+地址: 0x46EDC 
+
+函数名: _imp__GetCurrentThreadId
+地址: 0x5402C 
+
+函数名: _amsg_exit
+地址: 0x483CA 
+
+函数名: <CrtImplementationDetails>::NativeDll::ProcessVerifier
+地址: 0x51528 
+
+函数名: std::_System_error_category `RTTI Type Descriptor'
+地址: 0x53230 
+
+函数名: _imp__GetExitCodeProcess
+地址: 0x54080 
+
+函数名: _imp__GetEnvironmentVariableW
+地址: 0x54064 
+
+函数名: _imp___invalid_parameter
+地址: 0x5421C 
+
+函数名: GetCurrentProcess
+地址: 0x462D2 
+
+函数名: _imp__TlsFree
+地址: 0x54044 
+
+函数名: _imp_?_Getpfirst_Container_base12stdQBEPAPAU_Iterator_base12
+地址: 0x54180 
+
+函数名: UnmapViewOfFile
+地址: 0x463FE 
+
+函数名: _imp_??1type_infoUAEXZ
+地址: 0x5426C 
+
+函数名: _imp__SuspendThread
+地址: 0x540A4 
+
+函数名: _imp__Module32FirstW
+地址: 0x54058 
+
+函数名: _imp__printf
+地址: 0x54220 
+
+函数名: _vsnwprintf
+地址: 0x46F2A 
+
+函数名: SetFilePointer
+地址: 0x463E6 
+
+函数名: CreateProcessW
+地址: 0x4638C 
+
+函数名: GetThreadContext
+地址: 0x463B6 
+
+函数名: SymInitialize
+地址: 0x4649A 
+
+函数名: WideCharToMultiByte
+地址: 0x49120 
+
+函数名: _imp__TlsAlloc
+地址: 0x54038 
+
+函数名: std::_Iostream_error_category::`vftable'
+地址: 0x4E958 
+
+函数名: DebugBreak
+地址: 0x463DA 
+
+函数名: _imp__VirtualProtect
+地址: 0x54014 
+
+函数名: QueryPerformanceCounter
+地址: 0x49126 
+
+函数名: _imp__OutputDebugStringW
+地址: 0x54068 
+
+函数名: _imp____dllonexit
+地址: 0x54254 
+
+函数名: VirtualQueryEx
+地址: 0x463A4 
+
+函数名: _imp__GetModuleFileNameA
+地址: 0x540BC 
+
+函数名: _errno
+地址: 0x46EEE 
+
+函数名: _imp__SetLastError
+地址: 0x54070 
+
+函数名: SymGetLineFromAddr64
+地址: 0x46494 
+
+函数名: _imp_??2YAPAXIZ
+地址: 0x542B4 
+
+函数名: `gwp_asan::`anonymous namespace'::printAllocDeallocTraces'::`2'::__LINE__Var
+地址: 0x5301C 
+
+函数名: _imp__GetModuleFileNameW
+地址: 0x54118 
+
+函数名: _calloc_dbg
+地址: 0x4792C 
+
+函数名: __crtTerminateProcess
+地址: 0x47944 
+
+函数名: _NULL_IMPORT_DESCRIPTOR
+地址: 0x543A0 
+
+函数名: _imp__strcmp
+地址: 0x54234 
+
+函数名: InstallSanitizer
+地址: 0x1969F 
+

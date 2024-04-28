@@ -1,0 +1,13 @@
+sanitizer_v0.sdf
+Release
+Debug
+Sanitizer\Debug
+Sanitizer\Release
+Sanitizer\src\obj.X86\
+demo\Release
+demo\Debug
+demo\crash_report.txt
+.vs
+sanitizer_v0.opensdf
+sanitizer_v0.v12.suo
+ipch\

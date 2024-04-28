@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{e80b6a3a-daa7-4e21-8003-29f239885576}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gwp_asan">
+      <UniqueIdentifier>{38656fd3-a0b3-42cb-b9b1-c5f7497cc7bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gwp_asan\optional">
+      <UniqueIdentifier>{dc79b8e4-05f0-4bd5-aece-9674e07c7560}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gwp_asan\platform_specific">
+      <UniqueIdentifier>{8444556c-ad83-4f5f-9c67-4e3d8b172de0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gwp_asan\thread">
+      <UniqueIdentifier>{82ffaa62-5c00-472a-99d0-dff2973d535d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{aa0de0f5-76d3-41ed-bc0e-8adb3d40fe06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SanitizerApi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\creatwth.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\detours.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\disasm.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\disolarm.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\disolarm64.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\disolia64.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\disolx64.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\disolx86.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\image.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="gwp_asan\guarded_pool_allocator.cpp">
+      <Filter>gwp_asan</Filter>
+    </ClCompile>
+    <ClCompile Include="gwp_asan\random.cpp">
+      <Filter>gwp_asan</Filter>
+    </ClCompile>
+    <ClCompile Include="gwp_asan\stack_trace_compressor.cpp">
+      <Filter>gwp_asan</Filter>
+    </ClCompile>
+    <ClCompile Include="gwp_asan\platform_specific\guarded_pool_allocator_win.cpp">
+      <Filter>gwp_asan\platform_specific</Filter>
+    </ClCompile>
+    <ClCompile Include="gwp_asan\optional\backtrace_win32.cpp">
+      <Filter>gwp_asan\optional</Filter>
+    </ClCompile>
+    <ClCompile Include="gwp_asan\thread\thread_local_win.cpp">
+      <Filter>gwp_asan\thread</Filter>
+    </ClCompile>
+    <ClCompile Include="gwp_asan\optional\SymboInfoRetriever.cpp">
+      <Filter>gwp_asan\optional</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\detours.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\detver.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="gwp_asan\definitions.h">
+      <Filter>gwp_asan</Filter>
+    </ClInclude>
+    <ClInclude Include="gwp_asan\guarded_pool_allocator.h">
+      <Filter>gwp_asan</Filter>
+    </ClInclude>
+    <ClInclude Include="gwp_asan\random.h">
+      <Filter>gwp_asan</Filter>
+    </ClInclude>
+    <ClInclude Include="gwp_asan\stack_trace_compressor.h">
+      <Filter>gwp_asan</Filter>
+    </ClInclude>
+    <ClInclude Include="gwp_asan\optional\backtrace.h">
+      <Filter>gwp_asan\optional</Filter>
+    </ClInclude>
+    <ClInclude Include="gwp_asan\thread\thread_local.h">
+      <Filter>gwp_asan\thread</Filter>
+    </ClInclude>
+    <ClInclude Include="gwp_asan\optional\SymboInfoRetriever.h">
+      <Filter>gwp_asan\optional</Filter>
+    </ClInclude>
+    <ClInclude Include="options.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SanitizerApi.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\Makefile">
+      <Filter>src</Filter>
+    </None>
+  </ItemGroup>
+</Project>
